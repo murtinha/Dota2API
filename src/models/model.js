@@ -1,7 +1,7 @@
 import db from '../app';
 import mongoose from 'mongoose';
 import heroes from '~/data';
-import dataSchema from './data';
+import dataSchema from './schema';
 
 const Model = mongoose.model('Data', dataSchema);
 const obj = {};
