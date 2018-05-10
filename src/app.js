@@ -28,9 +28,17 @@ app.get('/hero/:name', function(req, res) {
 	});
 });
 
-app.get('/counter/:heroes', function(req, res) {
+app.get('/counter-me/:heroes', function(req, res) {
 	const heroes = req.params.heroes.split(',');
-	Model.find({ 'name': { $in: heroes } }, function(err, counters) {
+	Model.find({ 'name': { $in: heroes } }, { 'bestAgaints': 0 }, function(err, counters) {
+		if (err) return handleError(err);
+		res.json(counters)
+	});
+});
+
+app.get('/I-counter/:heroes', function(req, res) {
+	const heroes = req.params.heroes.split(',');
+	Model.find({ 'name': { $in: heroes } }, { 'worstAgaints': 0 }, function(err, counters) {
 		if (err) return handleError(err);
 		res.json(counters)
 	});
