@@ -28,20 +28,20 @@ app.get('/hero/:name', function(req, res) {
 	});
 });
 
-app.get('/counter-me/:heroes', function(req, res) {
+app.get('/counter-us/:heroes', async function(req, res) {
 	const heroes = req.params.heroes.split(',');
-	Model.find({ 'name': { $in: heroes } }, { 'bestAgaints': 0 }, function(err, counters) {
-		if (err) return handleError(err);
-		res.json(counters)
-	});
-});
-
-app.get('/I-counter/:heroes', function(req, res) {
-	const heroes = req.params.heroes.split(',');
-	Model.find({ 'name': { $in: heroes } }, { 'worstAgaints': 0 }, function(err, counters) {
-		if (err) return handleError(err);
-		res.json(counters)
-	});
+	const results = await Promise.all(
+			heroes.map( h => Model.findOne({ 'name': h }, function(err, counters) {
+				return new Promise((resolve, reject) => {
+					if (err) {
+						reject(err);
+					} else {
+						resolve(counters.worstAgaints);
+					}
+				});
+			}))
+	);
+	res.send(results)
 });
 
 app.listen(3000, function() {
