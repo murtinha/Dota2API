@@ -28,21 +28,43 @@ app.get('/hero/:name', function(req, res) {
 	});
 });
 
-app.get('/counter-us/:heroes', async function(req, res) {
+app.get('/counter-us/:heroes', function(req, res) {
 	const heroes = req.params.heroes.split(',');
-	const results = await Promise.all(
-			heroes.map( h => Model.findOne({ 'name': h }, function(err, counters) {
-				return new Promise((resolve, reject) => {
-					if (err) {
-						reject(err);
-					} else {
-						resolve(counters.worstAgaints);
-					}
-				});
-			}))
-	);
-	res.send(results)
+	Promise.all(
+		heroes.map(h=> Model.findOne({ 'name': h }, { 'bestAgaints': 0 }, function(err, counters) {
+			return new Promise((resolve, reject) => {
+				if (err) {
+					reject(err);
+				} else {
+					resolve(counters);
+				}
+			});
+		}))
+	).then(counters => {
+		const worstAgaints = counters
+			.map(counter => counter.worstAgaints)
+			.reduce((acc, val) => acc.concat(val), []);
+		res.json(worstAgaints)
+	});	
 });
+
+// FGOD solution
+// app.get('/counter-us/:heroes', async function(req, res) {
+// 	const heroes = req.params.heroes.split(',');
+// 	const results = await Promise.all(
+// 			heroes.map( h => Model.findOne({ 'name': h }, { 'bestAgaints': 0 }, function(err, counters) {
+// 				return new Promise((resolve, reject) => {
+// 					if (err) {
+// 						reject(err);
+// 					} else {
+// 						console.log(counters.worstAgaints)
+// 						resolve(counters);
+// 					}
+// 				});
+// 			}))
+// 	);
+// 	res.send(results)
+// });
 
 app.listen(3000, function() {
 	console.log("Server running on port 3000");
