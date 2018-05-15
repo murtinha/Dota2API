@@ -28,6 +28,14 @@ app.get('/hero/:name', function(req, res) {
 	});
 });
 
+app.get('/counter-me/:name', function(req,res) {
+	const name = req.params.name;
+	Model.findOne({'name': name}, function(err, hero) {
+		if (err) return handleError(err);
+		res.json(hero.worstAgaints)
+	});
+});
+
 app.get('/counter-us/:heroes', function(req, res) {
 	const heroes = req.params.heroes.split(',');
 	Promise.all(
