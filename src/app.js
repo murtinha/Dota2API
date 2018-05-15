@@ -64,6 +64,42 @@ app.get('/counter-us/:heroes', function(req, res) {
 	});	
 });
 
+app.get('/i-counter/:name', function(req,res) {
+	const name = req.params.name;
+	Model.findOne({'name': name}, function(err, hero) {
+		if (err) return handleError(err);
+		res.json(hero.bestAgaints)
+	});
+});
+
+app.get('/we-counter/:heroes', function(req, res) {
+	const heroes = req.params.heroes.split(',');
+	Promise.all(
+		heroes.map(h=> Model.findOne({ 'name': h }, { 'worstAgaints': 0 }, function(err, counters) {
+			return new Promise((resolve, reject) => {
+				if (err) {
+					reject(err);
+				} else {
+					resolve(counters);
+				}
+			});
+		}))
+	).then(counters => {
+		const bestAgaints = counters.map(counter => counter.bestAgaints);
+		if (bestAgaints.length > 1) {
+			const [hdBestAgaints] = bestAgaints.splice(0,1);
+			const myCounters = hdBestAgaints.filter(hero => {
+				return bestAgaints.every(counters => {
+					return !!~counters.indexOf(hero)
+				})
+			});
+			res.json(myCounters)
+		} else {
+			res.json(...bestAgaints)
+		}
+	});	
+});
+
 // FGOD solution
 // app.get('/counter-us/:heroes', async function(req, res) {
 // 	const heroes = req.params.heroes.split(',');
