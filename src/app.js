@@ -41,10 +41,18 @@ app.get('/counter-us/:heroes', function(req, res) {
 			});
 		}))
 	).then(counters => {
-		const worstAgaints = counters
-			.map(counter => counter.worstAgaints)
-			.reduce((acc, val) => acc.concat(val), []);
-		res.json(worstAgaints)
+		const worstAgaints = counters.map(counter => counter.worstAgaints);
+		if (worstAgaints.length > 1) {
+			const [hdWorstAgaints] = worstAgaints.splice(0,1);
+			const myCounters = hdWorstAgaints.filter(hero => {
+				return worstAgaints.every(counters => {
+					return !!~counters.indexOf(hero)
+				})
+			});
+			res.json(myCounters)
+		} else {
+			res.json(...worstAgaints)
+		}
 	});	
 });
 
