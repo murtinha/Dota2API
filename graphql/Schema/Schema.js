@@ -1,12 +1,12 @@
-import { GraphQLObjectType, GraphQLString, GraphQLSchema } from 'graphql';
+import { GraphQLObjectType, GraphQLString, GraphQLList, GraphQLSchema } from 'graphql';
 import Model from '../../src/models/model';
 
 const heroType = new GraphQLObjectType({
 	name: 'Hero',
 	fields: {
 		name: { type: GraphQLString },
-		worstAgainst: { type: GraphQLString },
-		bestAgainst: { type: GraphQLString },
+		worstAgaints: { type: GraphQLList(GraphQLString) },
+		bestAgaints: { type: GraphQLList(GraphQLString) },
 	}
 });
 
