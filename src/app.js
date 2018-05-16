@@ -1,6 +1,8 @@
 import express from 'express';
 import mongoose from 'mongoose';
 import Model from './models/model';
+import schema from '../graphql/Schema/Schema';
+import graphqlHTTP from 'express-graphql';
 
 mongoose.connect('mongodb://localhost:27017/heroesdb', { autoIndex: false });
 
@@ -15,6 +17,11 @@ db.on('error', function(err){
 })
 
 const app = express();
+
+app.use('/graphql', graphqlHTTP({
+	schema,
+	graphiql: true,
+}));
 
 app.get('/', function (req, res) {
 	res.send("WELCOME TO DOTA 2 COUNTER ME");
@@ -119,7 +126,7 @@ app.get('/we-counter/:heroes', function(req, res) {
 // });
 
 app.listen(3000, function() {
-	console.log("Server running on port 3000");
+	console.log("Server running on port 3000 with graphql api on /graphql");
 });
 
 
