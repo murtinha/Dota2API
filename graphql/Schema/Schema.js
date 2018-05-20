@@ -10,29 +10,12 @@ const heroType = new GraphQLObjectType({
 	}
 });
 
-const queryType = new GraphQLObjectType({
-	name: 'Query',
+const teamType = new GraphQLObjectType({
+	name: 'Team',
 	fields: {
-		hero: {
-			type: heroType,
-			args: {
-				name: { type: GraphQLString }
-			},
-			resolve: (_, { name }) => {
-				const heroInfo =  new Promise((resolve, reject) => {
-					Model.findOne({'name': name}, function(err, data) {
-						err ? reject(err) : resolve(data)
-					});
-				})
-				return heroInfo;	
-			}
-		},
-		counterUs: {
+		worstAgaints: {
 			type: GraphQLList(GraphQLString),
-			args: {
-				heroes: { type: GraphQLList(GraphQLString) },
-			},
-			resolve: (_, { heroes }) => {
+			resolve: heroes => {
 				const counters = Promise.all(
 					heroes.map(h=> Model.findOne({ 'name': h }, { 'bestAgaints': 0 }, function(err, counters) {
 						return new Promise((resolve, reject) => {
@@ -59,8 +42,65 @@ const queryType = new GraphQLObjectType({
 					});	
 					return counters;
 				},
+		},
+		bestAgaints: {
+			type: GraphQLList(GraphQLString),
+			resolve: heroes => {
+				const counters = Promise.all(
+					heroes.map(h=> Model.findOne({ 'name': h }, { 'worstAgaints': 0 }, function(err, counters) {
+						return new Promise((resolve, reject) => {
+							if (err) {
+								reject(err);
+							} else {
+								resolve(counters);
+							}
+						});
+					}))
+				).then(counters => {
+						const bestAgaints = counters.map(counter => counter.bestAgaints);
+						if (bestAgaints.length > 1) {
+							const [hdBestAgaints] = bestAgaints.splice(0,1);
+							const myCounters = hdBestAgaints.filter(hero => {
+								return bestAgaints.every(counters => {
+									return !!~counters.indexOf(hero)
+								})
+							});
+							return myCounters;
+						} else {
+							return bestAgaints[0];
+						}
+					});	
+					return counters;
+				},
+		},
+	}
+});
+
+const queryType = new GraphQLObjectType({
+	name: 'Query',
+	fields: {
+		hero: {
+			type: heroType,
+			args: {
+				name: { type: GraphQLString }
 			},
-		}
+			resolve: (_, { name }) => {
+				const heroInfo =  new Promise((resolve, reject) => {
+					Model.findOne({'name': name}, function(err, data) {
+						err ? reject(err) : resolve(data)
+					});
+				})
+				return heroInfo;	
+			}
+		},
+		team: {
+			type: teamType,
+			args: {
+				heroes: { type: GraphQLList(GraphQLString) },
+			},
+			resolve: (_, { heroes }) => heroes,
+		},
+	}
 })
 
 const schema = new GraphQLSchema({ query: queryType });
