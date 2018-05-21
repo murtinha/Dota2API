@@ -13,9 +13,13 @@ const heroType = new GraphQLObjectType({
 const teamType = new GraphQLObjectType({
 	name: 'Team',
 	fields: {
+		heroes: {
+			type: GraphQLList(GraphQLString),
+			resolve: ({ heroes }) => heroes,
+		},
 		worstAgaints: {
 			type: GraphQLList(GraphQLString),
-			resolve: heroes => {
+			resolve: ({ heroes }) => {
 				const counters = Promise.all(
 					heroes.map(h=> Model.findOne({ 'name': h }, { 'bestAgaints': 0 }, function(err, counters) {
 						return new Promise((resolve, reject) => {
@@ -45,7 +49,7 @@ const teamType = new GraphQLObjectType({
 		},
 		bestAgaints: {
 			type: GraphQLList(GraphQLString),
-			resolve: heroes => {
+			resolve: ({ heroes }) => {
 				const counters = Promise.all(
 					heroes.map(h=> Model.findOne({ 'name': h }, { 'worstAgaints': 0 }, function(err, counters) {
 						return new Promise((resolve, reject) => {
@@ -98,7 +102,7 @@ const queryType = new GraphQLObjectType({
 			args: {
 				heroes: { type: GraphQLList(GraphQLString) },
 			},
-			resolve: (_, { heroes }) => heroes,
+			resolve: (_, { heroes }) => ({ heroes }),
 		},
 	}
 })
