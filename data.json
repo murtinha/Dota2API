@@ -1,1 +1,2999 @@
-{"Razor": {"bestAgaint": ["Ursa", "Omniknight", "Lifestealer", "Leshrac", "Magnus", "Sven", "Tidehunter", "Puck", "Axe", "Legion Commander"], "worstAgaint": ["Enigma", "Visage", "Chaos Knight", "Venomancer", "Beastmaster", "Viper", "Sniper", "Phantom Lancer", "Bristleback", "Techies"]}, "Night Stalker": {"bestAgaint": ["Keeper of the Light", "Morphling", "Storm Spirit", "Clinkz", "Alchemist", "Batrider", "Silencer", "Juggernaut", "Medusa", "Ancient Apparition"], "worstAgaint": ["Huskar", "Templar Assassin", "Lone Druid", "Lycan", "Arc Warden", "Chen", "Dark Willow", "Earth Spirit", "Phantom Lancer", "Broodmother"]}, "Naga Siren": {"bestAgaint": ["Visage", "Broodmother", "Oracle", "Brewmaster", "Lycan", "Bane", "Keeper of the Light", "Riki", "Phantom Assassin", "Beastmaster"], "worstAgaint": ["Leshrac", "Necrophos", "Timbersaw", "Underlord", "Morphling", "Huskar", "Jakiro", "Outworld Devourer", "Gyrocopter", "Omniknight"]}, "Undying": {"bestAgaint": ["Spectre", "Centaur Warrunner", "Abaddon", "Beastmaster", "Death Prophet", "Wraith King", "Winter Wyvern", "Sven", "Batrider", "Lycan"], "worstAgaint": ["Medusa", "Gyrocopter", "Anti-Mage", "Timbersaw", "Meepo", "Phantom Lancer", "Ember Spirit", "Luna", "Sniper", "Faceless Void"]}, "Dragon Knight": {"bestAgaint": ["Broodmother", "Storm Spirit", "Nyx Assassin", "Puck", "Legion Commander", "Phantom Assassin", "Bristleback", "Riki", "Templar Assassin", "Faceless Void"], "worstAgaint": ["Underlord", "Timbersaw", "Death Prophet", "Slark", "Meepo", "Outworld Devourer", "Terrorblade", "Huskar", "Pudge", "Batrider"]}, "Juggernaut": {"bestAgaint": ["Spectre", "Zeus", "Underlord", "Centaur Warrunner", "Clockwerk", "Elder Titan", "Nyx Assassin", "Viper", "Tidehunter", "Bristleback"], "worstAgaint": ["Lone Druid", "Io", "Broodmother", "Meepo", "Morphling", "Templar Assassin", "Weaver", "Ursa", "Alchemist", "Anti-Mage"]}, "Ursa": {"bestAgaint": ["Juggernaut", "Lifestealer", "Huskar", "Timbersaw", "Legion Commander", "Treant Protector", "Axe", "Pudge", "Morphling", "Underlord"], "worstAgaint": ["Razor", "Phantom Lancer", "Venomancer", "Batrider", "Windranger", "Chaos Knight", "Gyrocopter", "Templar Assassin", "Weaver", "Sand King"]}, "Bane": {"bestAgaint": ["Windranger", "Treant Protector", "Timbersaw", "Ancient Apparition", "Winter Wyvern", "Lich", "Legion Commander", "Juggernaut", "Jakiro", "Phantom Assassin"], "worstAgaint": ["Chaos Knight", "Death Prophet", "Phantom Lancer", "Visage", "Shadow Demon", "Naga Siren", "Terrorblade", "Undying", "Morphling", "Magnus"]}, "Venomancer": {"bestAgaint": ["Templar Assassin", "Axe", "Ursa", "Slardar", "Razor", "Bristleback", "Visage", "Troll Warlord", "Doom", "Sand King"], "worstAgaint": ["Huskar", "Anti-Mage", "Nature's Prophet", "Dark Seer", "Arc Warden", "Slark", "Lycan", "Phantom Lancer", "Pudge", "Sniper"]}, "Tinker": {"bestAgaint": ["Terrorblade", "Outworld Devourer", "Vengeful Spirit", "Bloodseeker", "Phantom Assassin", "Underlord", "Luna", "Viper", "Winter Wyvern", "Lich"], "worstAgaint": ["Lifestealer", "Alchemist", "Pudge", "Anti-Mage", "Lone Druid", "Io", "Lina", "Invoker", "Storm Spirit", "Puck"]}, "Ancient Apparition": {"bestAgaint": ["Huskar", "Necrophos", "Bristleback", "Visage", "Dark Seer", "Axe", "Morphling", "Omniknight", "Underlord", "Dazzle"], "worstAgaint": ["Anti-Mage", "Lycan", "Storm Spirit", "Phantom Lancer", "Clinkz", "Broodmother", "Brewmaster", "Templar Assassin", "Phoenix", "Nature's Prophet"]}, "Omniknight": {"bestAgaint": ["Spectre", "Chaos Knight", "Wraith King", "Broodmother", "Storm Spirit", "Phantom Assassin", "Slark", "Phantom Lancer", "Lifestealer", "Treant Protector"], "worstAgaint": ["Razor", "Enigma", "Enchantress", "Morphling", "Outworld Devourer", "Luna", "Drow Ranger", "Ancient Apparition", "Undying", "Rubick"]}, "Chaos Knight": {"bestAgaint": ["Huskar", "Viper", "Skywrath Mage", "Clinkz", "Ursa", "Bane", "Faceless Void", "Templar Assassin", "Razor", "Nyx Assassin"], "worstAgaint": ["Phoenix", "Medusa", "Enigma", "Sven", "Sand King", "Phantom Lancer", "Timbersaw", "Underlord", "Omniknight", "Elder Titan"]}, "Outworld Devourer": {"bestAgaint": ["Abaddon", "Anti-Mage", "Underlord", "Dragon Knight", "Omniknight", "Storm Spirit", "Timbersaw", "Clockwerk", "Morphling", "Tidehunter"], "worstAgaint": ["Pugna", "Sniper", "Drow Ranger", "Enigma", "Arc Warden", "Phantom Assassin", "Tinker", "Templar Assassin", "Windranger", "Broodmother"]}, "Abaddon": {"bestAgaint": ["Batrider", "Leshrac", "Axe", "Lifestealer", "Clinkz", "Silencer", "Pudge", "Legion Commander", "Magnus", "Luna"], "worstAgaint": ["Outworld Devourer", "Keeper of the Light", "Undying", "Morphling", "Brewmaster", "Anti-Mage", "Pangolier", "Lone Druid", "Invoker", "Monkey King"]}, "Faceless Void": {"bestAgaint": ["Weaver", "Clockwerk", "Undying", "Omniknight", "Juggernaut", "Zeus", "Witch Doctor", "Slark", "Invoker", "Lich"], "worstAgaint": ["Meepo", "Lone Druid", "Broodmother", "Leshrac", "Templar Assassin", "Tiny", "Naga Siren", "Death Prophet", "Alchemist", "Axe"]}, "Mirana": {"bestAgaint": ["Troll Warlord", "Ancient Apparition", "Lifestealer", "Undying", "Lich", "Ursa", "Sniper", "Monkey King", "Sven", "Weaver"], "worstAgaint": ["Broodmother", "Puck", "Lone Druid", "Oracle", "Slark", "Ember Spirit", "Bounty Hunter", "Earth Spirit", "Phantom Lancer", "Templar Assassin"]}, "Bristleback": {"bestAgaint": ["Visage", "Lycan", "Riki", "Luna", "Tidehunter", "Beastmaster", "Spectre", "Vengeful Spirit", "Underlord", "Chaos Knight"], "worstAgaint": ["Viper", "Necrophos", "Silencer", "Legion Commander", "Keeper of the Light", "Slark", "Ancient Apparition", "Anti-Mage", "Venomancer", "Slardar"]}, "Elder Titan": {"bestAgaint": ["Meepo", "Oracle", "Chaos Knight", "Necrophos", "Axe", "Winter Wyvern", "Slark", "Abaddon", "Arc Warden", "Medusa"], "worstAgaint": ["Lifestealer", "Clinkz", "Chen", "Io", "Nature's Prophet", "Batrider", "Alchemist", "Juggernaut", "Lone Druid", "Bounty Hunter"]}, "Lone Druid": {"bestAgaint": ["Arc Warden", "Lycan", "Shadow Demon", "Terrorblade", "Abaddon", "Juggernaut", "Silencer", "Io", "Elder Titan", "Dazzle"], "worstAgaint": ["Timbersaw", "Winter Wyvern", "Gyrocopter", "Slark", "Pugna", "Phantom Lancer", "Enchantress", "Necrophos", "Alchemist", "Troll Warlord"]}, "Shadow Fiend": {"bestAgaint": ["Chaos Knight", "Lycan", "Underlord", "Omniknight", "Spectre", "Phantom Assassin", "Dragon Knight", "Centaur Warrunner", "Elder Titan", "Riki"], "worstAgaint": ["Lone Druid", "Templar Assassin", "Puck", "Arc Warden", "Io", "Earth Spirit", "Magnus", "Tiny", "Batrider", "Tusk"]}, "Templar Assassin": {"bestAgaint": ["Techies", "Clockwerk", "Lifestealer", "Zeus", "Broodmother", "Invoker", "Rubick", "Nyx Assassin", "Tiny", "Visage"], "worstAgaint": ["Batrider", "Ember Spirit", "Phantom Lancer", "Venomancer", "Terrorblade", "Dark Seer", "Viper", "Chaos Knight", "Meepo", "Slark"]}, "Shadow Demon": {"bestAgaint": ["Luna", "Bane", "Necrophos", "Techies", "Dark Seer", "Ursa", "Dragon Knight", "Disruptor", "Oracle", "Troll Warlord"], "worstAgaint": ["Phantom Lancer", "Weaver", "Ember Spirit", "Lone Druid", "Arc Warden", "Batrider", "Timbersaw", "Storm Spirit", "Warlock", "Meepo"]}, "Anti-Mage": {"bestAgaint": ["Zeus", "Clockwerk", "Spectre", "Ancient Apparition", "Phoenix", "Wraith King", "Undying", "Storm Spirit", "Abaddon", "Venomancer"], "worstAgaint": ["Meepo", "Phantom Assassin", "Legion Commander", "Terrorblade", "Axe", "Outworld Devourer", "Monkey King", "Troll Warlord", "Io", "Drow Ranger"]}, "Keeper of the Light": {"bestAgaint": ["Medusa", "Abaddon", "Bristleback", "Techies", "Dark Seer", "Bloodseeker", "Leshrac", "Phoenix", "Undying", "Necrophos"], "worstAgaint": ["Night Stalker", "Treant Protector", "Tusk", "Queen of Pain", "Phantom Assassin", "Crystal Maiden", "Naga Siren", "Meepo", "Bounty Hunter", "Ember Spirit"]}, "Necrophos": {"bestAgaint": ["Bristleback", "Spectre", "Naga Siren", "Huskar", "Centaur Warrunner", "Slark", "Dragon Knight", "Riki", "Spirit Breaker", "Tidehunter"], "worstAgaint": ["Ancient Apparition", "Medusa", "Pugna", "Shadow Demon", "Anti-Mage", "Elder Titan", "Keeper of the Light", "Ember Spirit", "Dark Seer", "Lich"]}, "Techies": {"bestAgaint": ["Weaver", "Ember Spirit", "Riki", "Morphling", "Terrorblade", "Visage", "Meepo", "Shadow Fiend", "Bloodseeker", "Phantom Lancer"], "worstAgaint": ["Oracle", "Templar Assassin", "Spectre", "Batrider", "Pudge", "Beastmaster", "Treant Protector", "Anti-Mage", "Centaur Warrunner", "Keeper of the Light"]}, "Medusa": {"bestAgaint": ["Chaos Knight", "Undying", "Enigma", "Sven", "Leshrac", "Necrophos", "Visage", "Lifestealer", "Techies", "Legion Commander"], "worstAgaint": ["Keeper of the Light", "Nyx Assassin", "Broodmother", "Anti-Mage", "Sniper", "Invoker", "Riki", "Slark", "Bounty Hunter", "Arc Warden"]}, "Slardar": {"bestAgaint": ["Broodmother", "Clinkz", "Anti-Mage", "Spectre", "Visage", "Chen", "Bristleback", "Lycan", "Invoker", "Bounty Hunter"], "worstAgaint": ["Venomancer", "Tidehunter", "Phantom Lancer", "Terrorblade", "Beastmaster", "Morphling", "Enigma", "Naga Siren", "Puck", "Tinker"]}, "Phantom Lancer": {"bestAgaint": ["Wraith King", "Huskar", "Arc Warden", "Ursa", "Vengeful Spirit", "Templar Assassin", "Enchantress", "Visage", "Chaos Knight", "Drow Ranger"], "worstAgaint": ["Timbersaw", "Dark Seer", "Axe", "Ember Spirit", "Sand King", "Leshrac", "Magnus", "Earthshaker", "Sven", "Pangolier"]}, "Tiny": {"bestAgaint": ["Broodmother", "Earthshaker", "Tidehunter", "Storm Spirit", "Morphling", "Keeper of the Light", "Nyx Assassin", "Meepo", "Queen of Pain", "Beastmaster"], "worstAgaint": ["Lifestealer", "Templar Assassin", "Medusa", "Huskar", "Death Prophet", "Enchantress", "Necrophos", "Undying", "Batrider", "Razor"]}, "Riki": {"bestAgaint": ["Enigma", "Storm Spirit", "Weaver", "Lifestealer", "Huskar", "Medusa", "Undying", "Clinkz", "Meepo", "Arc Warden"], "worstAgaint": ["Techies", "Bristleback", "Underlord", "Oracle", "Phantom Assassin", "Lone Druid", "Spectre", "Timbersaw", "Naga Siren", "Io"]}, "Invoker": {"bestAgaint": ["Zeus", "Spectre", "Abaddon", "Wraith King", "Underlord", "Tinker", "Medusa", "Chaos Knight", "Techies", "Omniknight"], "worstAgaint": ["Broodmother", "Lone Druid", "Io", "Templar Assassin", "Puck", "Morphling", "Nature's Prophet", "Alchemist", "Pugna", "Timbersaw"]}, "Sniper": {"bestAgaint": ["Underlord", "Outworld Devourer", "Enigma", "Visage", "Elder Titan", "Terrorblade", "Undying", "Death Prophet", "Shadow Shaman", "Tidehunter"], "worstAgaint": ["Morphling", "Lone Druid", "Nature's Prophet", "Slark", "Storm Spirit", "Alchemist", "Arc Warden", "Broodmother", "Io", "Meepo"]}, "Meepo": {"bestAgaint": ["Anti-Mage", "Broodmother", "Doom", "Arc Warden", "Storm Spirit", "Faceless Void", "Queen of Pain", "Lycan", "Brewmaster", "Shadow Shaman"], "worstAgaint": ["Sven", "Winter Wyvern", "Leshrac", "Earthshaker", "Dark Seer", "Kunkka", "Shadow Fiend", "Lich", "Jakiro", "Elder Titan"]}, "Leshrac": {"bestAgaint": ["Broodmother", "Meepo", "Naga Siren", "Brewmaster", "Phantom Lancer", "Visage", "Enigma", "Treant Protector", "Batrider", "Terrorblade"], "worstAgaint": ["Medusa", "Abaddon", "Clockwerk", "Lycan", "Razor", "Death Prophet", "Nyx Assassin", "Bristleback", "Tidehunter", "Keeper of the Light"]}, "Zeus": {"bestAgaint": ["Axe", "Terrorblade", "Luna", "Phantom Lancer", "Crystal Maiden", "Shadow Fiend", "Sand King", "Riki", "Gyrocopter", "Bloodseeker"], "worstAgaint": ["Anti-Mage", "Huskar", "Lifestealer", "Lycan", "Broodmother", "Storm Spirit", "Templar Assassin", "Visage", "Juggernaut", "Chen"]}, "Silencer": {"bestAgaint": ["Bristleback", "Storm Spirit", "Zeus", "Phoenix", "Outworld Devourer", "Timbersaw", "Enigma", "Crystal Maiden", "Centaur Warrunner", "Weaver"], "worstAgaint": ["Broodmother", "Arc Warden", "Phantom Lancer", "Lone Druid", "Lycan", "Meepo", "Beastmaster", "Visage", "Sniper", "Luna"]}, "Broodmother": {"bestAgaint": ["Clockwerk", "Warlock", "Invoker", "Silencer", "Arc Warden", "Brewmaster", "Zeus", "Doom", "Luna", "Weaver"], "worstAgaint": ["Earthshaker", "Meepo", "Leshrac", "Sven", "Axe", "Legion Commander", "Timbersaw", "Kunkka", "Sand King", "Batrider"]}, "Enigma": {"bestAgaint": ["Chaos Knight", "Lifestealer", "Omniknight", "Outworld Devourer", "Dark Seer", "Chen", "Razor", "Huskar", "Pangolier", "Spirit Breaker"], "worstAgaint": ["Medusa", "Sniper", "Spectre", "Leshrac", "Riki", "Warlock", "Earth Spirit", "Beastmaster", "Visage", "Morphling"]}, "Doom": {"bestAgaint": ["Spectre", "Axe", "Winter Wyvern", "Phoenix", "Underlord", "Night Stalker", "Outworld Devourer", "Tidehunter", "Tinker", "Zeus"], "worstAgaint": ["Visage", "Meepo", "Broodmother", "Lifestealer", "Beastmaster", "Huskar", "Bounty Hunter", "Enchantress", "Venomancer", "Clinkz"]}, "Lina": {"bestAgaint": ["Broodmother", "Meepo", "Lycan", "Phoenix", "Omniknight", "Tinker", "Abaddon", "Phantom Lancer", "Batrider", "Skywrath Mage"], "worstAgaint": ["Spectre", "Naga Siren", "Io", "Razor", "Silencer", "Medusa", "Clockwerk", "Bristleback", "Phantom Assassin", "Clinkz"]}, "Alchemist": {"bestAgaint": ["Oracle", "Lycan", "Arc Warden", "Elder Titan", "Centaur Warrunner", "Tinker", "Kunkka", "Naga Siren", "Broodmother", "Io"], "worstAgaint": ["Dazzle", "Slark", "Night Stalker", "Meepo", "Crystal Maiden", "Timbersaw", "Lifestealer", "Shadow Fiend", "Legion Commander", "Tusk"]}, "Batrider": {"bestAgaint": ["Templar Assassin", "Broodmother", "Techies", "Ursa", "Tusk", "Shadow Demon", "Nyx Assassin", "Elder Titan", "Treant Protector", "Troll Warlord"], "worstAgaint": ["Huskar", "Slark", "Abaddon", "Beastmaster", "Dark Willow", "Brewmaster", "Weaver", "Undying", "Storm Spirit", "Leshrac"]}, "Brewmaster": {"bestAgaint": ["Abaddon", "Bloodseeker", "Batrider", "Ancient Apparition", "Ogre Magi", "Earth Spirit", "Gyrocopter", "Spectre", "Dark Seer", "Lion"], "worstAgaint": ["Meepo", "Broodmother", "Leshrac", "Death Prophet", "Queen of Pain", "Timbersaw", "Visage", "Nature's Prophet", "Naga Siren", "Lycan"]}, "Axe": {"bestAgaint": ["Broodmother", "Phantom Lancer", "Visage", "Beastmaster", "Terrorblade", "Anti-Mage", "Lycan", "Chaos Knight", "Meepo", "Faceless Void"], "worstAgaint": ["Timbersaw", "Venomancer", "Phoenix", "Leshrac", "Io", "Jakiro", "Batrider", "Doom", "Spectre", "Clockwerk"]}, "Skywrath Mage": {"bestAgaint": ["Morphling", "Timbersaw", "Necrophos", "Elder Titan", "Storm Spirit", "Axe", "Faceless Void", "Outworld Devourer", "Weaver", "Kunkka"], "worstAgaint": ["Chaos Knight", "Pugna", "Templar Assassin", "Broodmother", "Meepo", "Bristleback", "Oracle", "Huskar", "Phantom Lancer", "Lina"]}, "Clinkz": {"bestAgaint": ["Dark Seer", "Elder Titan", "Juggernaut", "Ancient Apparition", "Ember Spirit", "Jakiro", "Invoker", "Storm Spirit", "Doom", "Undying"], "worstAgaint": ["Phantom Lancer", "Chaos Knight", "Phantom Assassin", "Troll Warlord", "Bloodseeker", "Slardar", "Spirit Breaker", "Slark", "Leshrac", "Techies"]}, "Gyrocopter": {"bestAgaint": ["Undying", "Timbersaw", "Death Prophet", "Visage", "Ursa", "Axe", "Meepo", "Broodmother", "Troll Warlord", "Naga Siren"], "worstAgaint": ["Arc Warden", "Lifestealer", "Underlord", "Juggernaut", "Zeus", "Spectre", "Clockwerk", "Tinker", "Riki", "Brewmaster"]}, "Pugna": {"bestAgaint": ["Outworld Devourer", "Timbersaw", "Io", "Necrophos", "Underlord", "Lich", "Skywrath Mage", "Dark Willow", "Enchantress", "Chen"], "worstAgaint": ["Huskar", "Pudge", "Anti-Mage", "Sniper", "Meepo", "Bristleback", "Weaver", "Keeper of the Light", "Techies", "Alchemist"]}, "Morphling": {"bestAgaint": ["Dazzle", "Sniper", "Phoenix", "Abaddon", "Phantom Assassin", "Omniknight", "Naga Siren", "Juggernaut", "Witch Doctor", "Enchantress"], "worstAgaint": ["Techies", "Outworld Devourer", "Skywrath Mage", "Axe", "Night Stalker", "Ancient Apparition", "Ursa", "Rubick", "Puck", "Anti-Mage"]}, "Death Prophet": {"bestAgaint": ["Brewmaster", "Oracle", "Bane", "Storm Spirit", "Treant Protector", "Spectre", "Centaur Warrunner", "Dragon Knight", "Leshrac", "Ember Spirit"], "worstAgaint": ["Sniper", "Gyrocopter", "Undying", "Drow Ranger", "Bloodseeker", "Nature's Prophet", "Chen", "Phantom Assassin", "Weaver", "Dazzle"]}, "Lion": {"bestAgaint": ["Slark", "Abaddon", "Ancient Apparition", "Troll Warlord", "Legion Commander", "Wraith King", "Ursa", "Juggernaut", "Faceless Void", "Anti-Mage"], "worstAgaint": ["Dark Seer", "Visage", "Arc Warden", "Beastmaster", "Lone Druid", "Io", "Gyrocopter", "Broodmother", "Templar Assassin", "Razor"]}, "Ogre Magi": {"bestAgaint": ["Riki", "Spectre", "Timbersaw", "Zeus", "Troll Warlord", "Centaur Warrunner", "Bloodseeker", "Phantom Assassin", "Shadow Fiend", "Ursa"], "worstAgaint": ["Oracle", "Phantom Lancer", "Meepo", "Broodmother", "Chen", "Magnus", "Beastmaster", "Warlock", "Brewmaster", "Naga Siren"]}, "Dazzle": {"bestAgaint": ["Lifestealer", "Centaur Warrunner", "Spectre", "Legion Commander", "Alchemist", "Lycan", "Meepo", "Bristleback", "Death Prophet", "Storm Spirit"], "worstAgaint": ["Morphling", "Outworld Devourer", "Luna", "Ancient Apparition", "Lone Druid", "Phantom Lancer", "Chen", "Gyrocopter", "Terrorblade", "Dark Willow"]}, "Magnus": {"bestAgaint": ["Broodmother", "Phantom Lancer", "Chaos Knight", "Elder Titan", "Beastmaster", "Tusk", "Lifestealer", "Bane", "Treant Protector", "Dark Seer"], "worstAgaint": ["Huskar", "Razor", "Io", "Sven", "Abaddon", "Phoenix", "Doom", "Techies", "Tinker", "Undying"]}, "Earth Spirit": {"bestAgaint": ["Enigma", "Storm Spirit", "Night Stalker", "Troll Warlord", "Dark Seer", "Visage", "Phantom Lancer", "Chen", "Terrorblade", "Leshrac"], "worstAgaint": ["Huskar", "Oracle", "Enchantress", "Viper", "Lycan", "Brewmaster", "Alchemist", "Doom", "Razor", "Venomancer"]}, "Pudge": {"bestAgaint": ["Zeus", "Underlord", "Spectre", "Dragon Knight", "Crystal Maiden", "Vengeful Spirit", "Centaur Warrunner", "Axe", "Wraith King", "Elder Titan"], "worstAgaint": ["Lone Druid", "Io", "Earth Spirit", "Nature's Prophet", "Puck", "Meepo", "Lifestealer", "Broodmother", "Alchemist", "Arc Warden"]}, "Storm Spirit": {"bestAgaint": ["Zeus", "Sniper", "Ancient Apparition", "Slark", "Tinker", "Phantom Lancer", "Clockwerk", "Techies", "Batrider", "Bloodseeker"], "worstAgaint": ["Meepo", "Anti-Mage", "Silencer", "Huskar", "Oracle", "Death Prophet", "Outworld Devourer", "Queen of Pain", "Riki", "Earth Spirit"]}, "Nature's Prophet": {"bestAgaint": ["Warlock", "Visage", "Brewmaster", "Undying", "Elder Titan", "Dark Willow", "Venomancer", "Lifestealer", "Death Prophet", "Oracle"], "worstAgaint": ["Spectre", "Sand King", "Storm Spirit", "Broodmother", "Timbersaw", "Batrider", "Phantom Assassin", "Meepo", "Leshrac", "Legion Commander"]}, "Warlock": {"bestAgaint": ["Meepo", "Visage", "Winter Wyvern", "Dark Seer", "Techies", "Centaur Warrunner", "Enigma", "Axe", "Chaos Knight", "Spectre"], "worstAgaint": ["Broodmother", "Nature's Prophet", "Slark", "Oracle", "Sniper", "Viper", "Underlord", "Legion Commander", "Medusa", "Lich"]}, "Spirit Breaker": {"bestAgaint": ["Drow Ranger", "Clinkz", "Broodmother", "Sniper", "Lycan", "Night Stalker", "Arc Warden", "Bane", "Legion Commander", "Silencer"], "worstAgaint": ["Meepo", "Underlord", "Dark Willow", "Dark Seer", "Enigma", "Io", "Necrophos", "Treant Protector", "Sand King", "Naga Siren"]}, "Crystal Maiden": {"bestAgaint": ["Anti-Mage", "Broodmother", "Troll Warlord", "Dragon Knight", "Phantom Lancer", "Keeper of the Light", "Wraith King", "Lycan", "Timbersaw", "Riki"], "worstAgaint": ["Io", "Rubick", "Earth Spirit", "Zeus", "Lifestealer", "Death Prophet", "Puck", "Pudge", "Magnus", "Lone Druid"]}, "Sven": {"bestAgaint": ["Meepo", "Broodmother", "Chaos Knight", "Lycan", "Visage", "Phantom Lancer", "Anti-Mage", "Centaur Warrunner", "Nyx Assassin", "Bloodseeker"], "worstAgaint": ["Medusa", "Lone Druid", "Clockwerk", "Io", "Troll Warlord", "Razor", "Undying", "Templar Assassin", "Nature's Prophet", "Keeper of the Light"]}, "Huskar": {"bestAgaint": ["Ember Spirit", "Zeus", "Clockwerk", "Batrider", "Venomancer", "Underlord", "Earth Spirit", "Bounty Hunter", "Phoenix", "Pugna"], "worstAgaint": ["Chaos Knight", "Phantom Lancer", "Troll Warlord", "Ancient Apparition", "Viper", "Phantom Assassin", "Broodmother", "Necrophos", "Windranger", "Ursa"]}, "Shadow Shaman": {"bestAgaint": ["Ursa", "Anti-Mage", "Crystal Maiden", "Wraith King", "Zeus", "Juggernaut", "Outworld Devourer", "Storm Spirit", "Faceless Void", "Nyx Assassin"], "worstAgaint": ["Meepo", "Io", "Lone Druid", "Phantom Lancer", "Visage", "Nature's Prophet", "Arc Warden", "Leshrac", "Shadow Demon", "Broodmother"]}, "Lich": {"bestAgaint": ["Meepo", "Terrorblade", "Necrophos", "Visage", "Omniknight", "Beastmaster", "Chaos Knight", "Dragon Knight", "Vengeful Spirit", "Monkey King"], "worstAgaint": ["Broodmother", "Huskar", "Pugna", "Nature's Prophet", "Dark Seer", "Weaver", "Pangolier", "Morphling", "Chen", "Enchantress"]}, "Sand King": {"bestAgaint": ["Broodmother", "Phantom Lancer", "Chaos Knight", "Terrorblade", "Slark", "Ursa", "Phantom Assassin", "Visage", "Winter Wyvern", "Nature's Prophet"], "worstAgaint": ["Zeus", "Phoenix", "Io", "Ember Spirit", "Venomancer", "Underlord", "Earth Spirit", "Huskar", "Timbersaw", "Techies"]}, "Dark Seer": {"bestAgaint": ["Meepo", "Phantom Lancer", "Broodmother", "Visage", "Templar Assassin", "Beastmaster", "Lifestealer", "Terrorblade", "Wraith King", "Lion"], "worstAgaint": ["Clinkz", "Keeper of the Light", "Enigma", "Warlock", "Ancient Apparition", "Underlord", "Anti-Mage", "Chen", "Jakiro", "Bloodseeker"]}, "Lifestealer": {"bestAgaint": ["Spectre", "Zeus", "Tiny", "Elder Titan", "Centaur Warrunner", "Ember Spirit", "Viper", "Kunkka", "Nyx Assassin", "Gyrocopter"], "worstAgaint": ["Enigma", "Templar Assassin", "Weaver", "Dazzle", "Ursa", "Medusa", "Dark Seer", "Razor", "Troll Warlord", "Phantom Lancer"]}, "Clockwerk": {"bestAgaint": ["Sven", "Troll Warlord", "Luna", "Axe", "Earthshaker", "Leshrac", "Sniper", "Brewmaster", "Gyrocopter", "Drow Ranger"], "worstAgaint": ["Broodmother", "Anti-Mage", "Huskar", "Visage", "Templar Assassin", "Meepo", "Arc Warden", "Phantom Lancer", "Lycan", "Juggernaut"]}, "Witch Doctor": {"bestAgaint": ["Centaur Warrunner", "Axe", "Spectre", "Underlord", "Elder Titan", "Enigma", "Razor", "Legion Commander", "Chaos Knight", "Io"], "worstAgaint": ["Broodmother", "Morphling", "Faceless Void", "Magnus", "Phantom Lancer", "Riki", "Pangolier", "Sniper", "Nature's Prophet", "Shadow Demon"]}, "Oracle": {"bestAgaint": ["Techies", "Earth Spirit", "Meepo", "Storm Spirit", "Ogre Magi", "Lifestealer", "Riki", "Warlock", "Spectre", "Queen of Pain"], "worstAgaint": ["Enchantress", "Elder Titan", "Drow Ranger", "Death Prophet", "Visage", "Alchemist", "Broodmother", "Bloodseeker", "Naga Siren", "Phantom Lancer"]}, "Enchantress": {"bestAgaint": ["Oracle", "Lycan", "Earth Spirit", "Underlord", "Beastmaster", "Omniknight", "Rubick", "Spectre", "Elder Titan", "Jakiro"], "worstAgaint": ["Phantom Lancer", "Phantom Assassin", "Meepo", "Chaos Knight", "Windranger", "Slark", "Morphling", "Pugna", "Legion Commander", "Arc Warden"]}, "Earthshaker": {"bestAgaint": ["Broodmother", "Phantom Lancer", "Lycan", "Chaos Knight", "Meepo", "Beastmaster", "Visage", "Brewmaster", "Ursa", "Slark"], "worstAgaint": ["Tiny", "Viper", "Lifestealer", "Spectre", "Clockwerk", "Ember Spirit", "Earth Spirit", "Templar Assassin", "Sniper", "Death Prophet"]}, "Puck": {"bestAgaint": ["Slark", "Broodmother", "Batrider", "Phantom Lancer", "Morphling", "Dark Willow", "Queen of Pain", "Enigma", "Invoker", "Outworld Devourer"], "worstAgaint": ["Dragon Knight", "Templar Assassin", "Ember Spirit", "Razor", "Wraith King", "Underlord", "Death Prophet", "Huskar", "Bristleback", "Alchemist"]}, "Nyx Assassin": {"bestAgaint": ["Medusa", "Tinker", "Phoenix", "Leshrac", "Luna", "Morphling", "Outworld Devourer", "Weaver", "Enigma", "Bristleback"], "worstAgaint": ["Lycan", "Lifestealer", "Beastmaster", "Templar Assassin", "Juggernaut", "Batrider", "Chaos Knight", "Visage", "Dragon Knight", "Death Prophet"]}, "Bounty Hunter": {"bestAgaint": ["Undying", "Elder Titan", "Doom", "Spectre", "Silencer", "Jakiro", "Medusa", "Lycan", "Riki", "Underlord"], "worstAgaint": ["Huskar", "Meepo", "Slark", "Phantom Lancer", "Lone Druid", "Anti-Mage", "Techies", "Morphling", "Legion Commander", "Oracle"]}, "Luna": {"bestAgaint": ["Omniknight", "Undying", "Timbersaw", "Silencer", "Dazzle", "Razor", "Outworld Devourer", "Brewmaster", "Slardar", "Shadow Shaman"], "worstAgaint": ["Shadow Demon", "Broodmother", "Terrorblade", "Arc Warden", "Bristleback", "Clockwerk", "Zeus", "Spectre", "Meepo", "Chen"]}, "Centaur Warrunner": {"bestAgaint": ["Techies", "Sniper", "Windranger", "Visage", "Phantom Lancer", "Faceless Void", "Storm Spirit", "Medusa", "Shadow Demon", "Arc Warden"], "worstAgaint": ["Undying", "Lifestealer", "Juggernaut", "Witch Doctor", "Dazzle", "Ember Spirit", "Death Prophet", "Warlock", "Io", "Templar Assassin"]}, "Disruptor": {"bestAgaint": ["Slark", "Axe", "Riki", "Storm Spirit", "Sand King", "Crystal Maiden", "Anti-Mage", "Earthshaker", "Techies", "Visage"], "worstAgaint": ["Arc Warden", "Huskar", "Shadow Demon", "Clinkz", "Sniper", "Tinker", "Pugna", "Oracle", "Undying", "Enchantress"]}, "Timbersaw": {"bestAgaint": ["Phantom Lancer", "Terrorblade", "Broodmother", "Winter Wyvern", "Lycan", "Beastmaster", "Brewmaster", "Axe", "Dragon Knight", "Undying"], "worstAgaint": ["Gyrocopter", "Pugna", "Outworld Devourer", "Luna", "Huskar", "Ursa", "Skywrath Mage", "Bloodseeker", "Ember Spirit", "Pudge"]}, "Queen of Pain": {"bestAgaint": ["Brewmaster", "Clockwerk", "Storm Spirit", "Keeper of the Light", "Timbersaw", "Razor", "Ancient Apparition", "Phoenix", "Zeus", "Spectre"], "worstAgaint": ["Meepo", "Io", "Huskar", "Legion Commander", "Viper", "Puck", "Medusa", "Drow Ranger", "Oracle", "Faceless Void"]}, "Viper": {"bestAgaint": ["Spectre", "Bristleback", "Huskar", "Templar Assassin", "Earthshaker", "Razor", "Queen of Pain", "Warlock", "Earth Spirit", "Dragon Knight"], "worstAgaint": ["Chaos Knight", "Lifestealer", "Terrorblade", "Broodmother", "Arc Warden", "Phantom Lancer", "Juggernaut", "Invoker", "Tinker", "Pudge"]}, "Tusk": {"bestAgaint": ["Keeper of the Light", "Slark", "Vengeful Spirit", "Ancient Apparition", "Beastmaster", "Shadow Fiend", "Naga Siren", "Invoker", "Drow Ranger", "Nyx Assassin"], "worstAgaint": ["Batrider", "Magnus", "Huskar", "Io", "Undying", "Ember Spirit", "Templar Assassin", "Leshrac", "Queen of Pain", "Dark Seer"]}, "Lycan": {"bestAgaint": ["Spectre", "Zeus", "Nyx Assassin", "Ancient Apparition", "Pudge", "Clockwerk", "Silencer", "Leshrac", "Juggernaut", "Brewmaster"], "worstAgaint": ["Meepo", "Bristleback", "Enchantress", "Timbersaw", "Lone Druid", "Sven", "Phantom Assassin", "Io", "Troll Warlord", "Bloodseeker"]}, "Winter Wyvern": {"bestAgaint": ["Meepo", "Beastmaster", "Troll Warlord", "Legion Commander", "Chen", "Lifestealer", "Lone Druid", "Chaos Knight", "Vengeful Spirit", "Visage"], "worstAgaint": ["Timbersaw", "Anti-Mage", "Warlock", "Undying", "Outworld Devourer", "Tinker", "Sand King", "Doom", "Elder Titan", "Arc Warden"]}, "Phoenix": {"bestAgaint": ["Chaos Knight", "Visage", "Axe", "Spectre", "Phantom Lancer", "Terrorblade", "Sand King", "Ancient Apparition", "Vengeful Spirit", "Leshrac"], "worstAgaint": ["Anti-Mage", "Huskar", "Morphling", "Juggernaut", "Io", "Silencer", "Lina", "Nyx Assassin", "Keeper of the Light", "Doom"]}, "Beastmaster": {"bestAgaint": ["Techies", "Broodmother", "Nyx Assassin", "Batrider", "Doom", "Silencer", "Lion", "Razor", "Visage", "Enigma"], "worstAgaint": ["Winter Wyvern", "Axe", "Timbersaw", "Ember Spirit", "Undying", "Dark Seer", "Bristleback", "Kunkka", "Terrorblade", "Jakiro"]}, "Bloodseeker": {"bestAgaint": ["Lycan", "Clinkz", "Anti-Mage", "Tidehunter", "Oracle", "Weaver", "Death Prophet", "Timbersaw", "Beastmaster", "Silencer"], "worstAgaint": ["Keeper of the Light", "Medusa", "Brewmaster", "Tinker", "Techies", "Wraith King", "Storm Spirit", "Puck", "Lifestealer", "Morphling"]}, "Jakiro": {"bestAgaint": ["Meepo", "Axe", "Wraith King", "Beastmaster", "Chaos Knight", "Spectre", "Naga Siren", "Templar Assassin", "Phantom Lancer", "Dark Seer"], "worstAgaint": ["Huskar", "Lifestealer", "Clinkz", "Enchantress", "Bounty Hunter", "Pugna", "Juggernaut", "Sniper", "Bane", "Rubick"]}, "Windranger": {"bestAgaint": ["Ursa", "Huskar", "Outworld Devourer", "Undying", "Lifestealer", "Enchantress", "Meepo", "Bounty Hunter", "Ancient Apparition", "Phoenix"], "worstAgaint": ["Centaur Warrunner", "Bane", "Spectre", "Bristleback", "Axe", "Shadow Demon", "Dark Seer", "Nature's Prophet", "Razor", "Phantom Assassin"]}, "Drow Ranger": {"bestAgaint": ["Outworld Devourer", "Oracle", "Death Prophet", "Anti-Mage", "Ember Spirit", "Weaver", "Omniknight", "Invoker", "Undying", "Bristleback"], "worstAgaint": ["Phantom Assassin", "Phantom Lancer", "Broodmother", "Slark", "Spirit Breaker", "Spectre", "Arc Warden", "Chaos Knight", "Bloodseeker", "Wraith King"]}, "Vengeful Spirit": {"bestAgaint": ["Legion Commander", "Shadow Fiend", "Batrider", "Lifestealer", "Huskar", "Skywrath Mage", "Razor", "Riki", "Faceless Void", "Lion"], "worstAgaint": ["Phantom Lancer", "Terrorblade", "Meepo", "Lone Druid", "Broodmother", "Phoenix", "Visage", "Chaos Knight", "Tinker", "Underlord"]}, "Io": {"bestAgaint": ["Queen of Pain", "Visage", "Meepo", "Lycan", "Oracle", "Techies", "Phoenix", "Elder Titan", "Centaur Warrunner", "Batrider"], "worstAgaint": ["Pugna", "Witch Doctor", "Lone Druid", "Keeper of the Light", "Alchemist", "Viper", "Sniper", "Slardar", "Winter Wyvern", "Puck"]}, "Terrorblade": {"bestAgaint": ["Anti-Mage", "Templar Assassin", "Vengeful Spirit", "Viper", "Luna", "Wraith King", "Beastmaster", "Clockwerk", "Dragon Knight", "Treant Protector"], "worstAgaint": ["Timbersaw", "Tinker", "Axe", "Techies", "Lone Druid", "Zeus", "Dark Seer", "Sniper", "Ember Spirit", "Leshrac"]}, "Spectre": {"bestAgaint": ["Sniper", "Techies", "Enigma", "Axe", "Earthshaker", "Luna", "Riki", "Windranger", "Drow Ranger", "Nature's Prophet"], "worstAgaint": ["Undying", "Lifestealer", "Viper", "Lycan", "Omniknight", "Anti-Mage", "Juggernaut", "Chen", "Necrophos", "Death Prophet"]}, "Kunkka": {"bestAgaint": ["Broodmother", "Meepo", "Beastmaster", "Chaos Knight", "Chen", "Phantom Lancer", "Anti-Mage", "Abaddon", "Lycan", "Visage"], "worstAgaint": ["Lifestealer", "Alchemist", "Juggernaut", "Puck", "Outworld Devourer", "Arc Warden", "Phoenix", "Clinkz", "Omniknight", "Morphling"]}, "Slark": {"bestAgaint": ["Batrider", "Sniper", "Bristleback", "Drow Ranger", "Dragon Knight", "Broodmother", "Clinkz", "Bounty Hunter", "Lycan", "Terrorblade"], "worstAgaint": ["Lion", "Anti-Mage", "Puck", "Storm Spirit", "Faceless Void", "Sand King", "Necrophos", "Disruptor", "Pangolier", "Tusk"]}, "Weaver": {"bestAgaint": ["Lifestealer", "Juggernaut", "Shadow Demon", "Batrider", "Brewmaster", "Pudge", "Ursa", "Lich", "Omniknight", "Death Prophet"], "worstAgaint": ["Faceless Void", "Techies", "Broodmother", "Drow Ranger", "Bloodseeker", "Riki", "Naga Siren", "Axe", "Zeus", "Nyx Assassin"]}, "Troll Warlord": {"bestAgaint": ["Huskar", "Anti-Mage", "Lycan", "Lifestealer", "Clinkz", "Sven", "Legion Commander", "Broodmother", "Ursa", "Visage"], "worstAgaint": ["Winter Wyvern", "Clockwerk", "Axe", "Crystal Maiden", "Venomancer", "Batrider", "Mirana", "Gyrocopter", "Earth Spirit", "Beastmaster"]}, "Treant Protector": {"bestAgaint": ["Techies", "Spectre", "Keeper of the Light", "Storm Spirit", "Centaur Warrunner", "Medusa", "Spirit Breaker", "Tinker", "Templar Assassin", "Lifestealer"], "worstAgaint": ["Chen", "Death Prophet", "Phantom Lancer", "Leshrac", "Visage", "Batrider", "Ursa", "Terrorblade", "Underlord", "Beastmaster"]}, "Visage": {"bestAgaint": ["Doom", "Clockwerk", "Zeus", "Oracle", "Brewmaster", "Shadow Shaman", "Lion", "Razor", "Treant Protector", "Tinker"], "worstAgaint": ["Naga Siren", "Bristleback", "Axe", "Phoenix", "Phantom Lancer", "Dark Seer", "Leshrac", "Sven", "Tidehunter", "Io"]}, "Ember Spirit": {"bestAgaint": ["Templar Assassin", "Phantom Lancer", "Broodmother", "Beastmaster", "Meepo", "Shadow Demon", "Undying", "Centaur Warrunner", "Terrorblade", "Chaos Knight"], "worstAgaint": ["Huskar", "Techies", "Lifestealer", "Drow Ranger", "Clinkz", "Outworld Devourer", "Death Prophet", "Riki", "Arc Warden", "Ursa"]}, "Arc Warden": {"bestAgaint": ["Silencer", "Disruptor", "Gyrocopter", "Clockwerk", "Shadow Demon", "Techies", "Viper", "Templar Assassin", "Outworld Devourer", "Beastmaster"], "worstAgaint": ["Meepo", "Phantom Lancer", "Lone Druid", "Broodmother", "Alchemist", "Spirit Breaker", "Riki", "Visage", "Chaos Knight", "Phantom Assassin"]}, "Legion Commander": {"bestAgaint": ["Broodmother", "Bristleback", "Anti-Mage", "Lycan", "Huskar", "Juggernaut", "Terrorblade", "Silencer", "Bounty Hunter", "Warlock"], "worstAgaint": ["Io", "Lone Druid", "Winter Wyvern", "Medusa", "Dazzle", "Oracle", "Troll Warlord", "Tiny", "Templar Assassin", "Monkey King"]}, "Wraith King": {"bestAgaint": ["Bloodseeker", "Axe", "Techies", "Faceless Void", "Spectre", "Centaur Warrunner", "Drow Ranger", "Legion Commander", "Skywrath Mage", "Silencer"], "worstAgaint": ["Phantom Lancer", "Broodmother", "Lone Druid", "Anti-Mage", "Dark Seer", "Io", "Underlord", "Terrorblade", "Undying", "Omniknight"]}, "Tidehunter": {"bestAgaint": ["Visage", "Slardar", "Chaos Knight", "Wraith King", "Batrider", "Phantom Assassin", "Terrorblade", "Storm Spirit", "Leshrac", "Silencer"], "worstAgaint": ["Huskar", "Bristleback", "Outworld Devourer", "Death Prophet", "Sniper", "Bloodseeker", "Razor", "Juggernaut", "Tiny", "Anti-Mage"]}, "Phantom Assassin": {"bestAgaint": ["Lycan", "Drow Ranger", "Anti-Mage", "Outworld Devourer", "Enchantress", "Clinkz", "Huskar", "Riki", "Sniper", "Invoker"], "worstAgaint": ["Morphling", "Timbersaw", "Io", "Meepo", "Puck", "Templar Assassin", "Shadow Fiend", "Pangolier", "Sand King", "Pugna"]}, "Chen": {"bestAgaint": ["Spectre", "Treant Protector", "Dark Willow", "Elder Titan", "Zeus", "Dark Seer", "Death Prophet", "Anti-Mage", "Centaur Warrunner", "Night Stalker"], "worstAgaint": ["Phantom Lancer", "Kunkka", "Enigma", "Meepo", "Broodmother", "Chaos Knight", "Slardar", "Winter Wyvern", "Sand King", "Sniper"]}, "Rubick": {"bestAgaint": ["Underlord", "Wraith King", "Zeus", "Omniknight", "Abaddon", "Crystal Maiden", "Ancient Apparition", "Luna", "Morphling", "Enigma"], "worstAgaint": ["Templar Assassin", "Enchantress", "Meepo", "Lone Druid", "Batrider", "Bristleback", "Lifestealer", "Huskar", "Clinkz", "Oracle"]}}
+{
+    "Bane": {
+        "bestAgaint": [
+            "Techies", 
+            "Winter Wyvern", 
+            "Io", 
+            "Oracle", 
+            "Leshrac", 
+            "Chen", 
+            "Troll Warlord", 
+            "Juggernaut", 
+            "Medusa", 
+            "Phoenix"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/bane_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Phantom Lancer", 
+            "Meepo", 
+            "Chaos Knight", 
+            "Slardar", 
+            "Sniper", 
+            "Puck", 
+            "Undying", 
+            "Arc Warden", 
+            "Lycan", 
+            "Death Prophet"
+        ]
+    }, 
+    "Anti-Mage": {
+        "bestAgaint": [
+            "Zeus", 
+            "Undying", 
+            "Clockwerk", 
+            "Ancient Apparition", 
+            "Abaddon", 
+            "Spectre", 
+            "Storm Spirit", 
+            "Phoenix", 
+            "Wraith King", 
+            "Slark"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/antimage_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Meepo", 
+            "Phantom Assassin", 
+            "Outworld Devourer", 
+            "Troll Warlord", 
+            "Terrorblade", 
+            "Legion Commander", 
+            "Monkey King", 
+            "Axe", 
+            "Drow Ranger", 
+            "Tiny"
+        ]
+    }, 
+    "Bloodseeker": {
+        "bestAgaint": [
+            "Anti-Mage", 
+            "Slark", 
+            "Night Stalker", 
+            "Undying", 
+            "Phoenix", 
+            "Beastmaster", 
+            "Doom", 
+            "Centaur Warrunner", 
+            "Clinkz", 
+            "Silencer"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/bloodseeker_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Techies", 
+            "Storm Spirit", 
+            "Tinker", 
+            "Troll Warlord", 
+            "Tiny", 
+            "Puck", 
+            "Morphling", 
+            "Sven", 
+            "Lifestealer", 
+            "Enchantress"
+        ]
+    }, 
+    "Axe": {
+        "bestAgaint": [
+            "Phantom Lancer", 
+            "Visage", 
+            "Anti-Mage", 
+            "Morphling", 
+            "Beastmaster", 
+            "Clinkz", 
+            "Broodmother", 
+            "Lycan", 
+            "Chaos Knight", 
+            "Nyx Assassin"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/axe_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Timbersaw", 
+            "Outworld Devourer", 
+            "Venomancer", 
+            "Pugna", 
+            "Lifestealer", 
+            "Tiny", 
+            "Death Prophet", 
+            "Monkey King", 
+            "Razor", 
+            "Tidehunter"
+        ]
+    },
+    "Crystal Maiden": {
+        "bestAgaint": [
+            "Lycan", 
+            "Phantom Lancer", 
+            "Troll Warlord", 
+            "Broodmother", 
+            "Ursa", 
+            "Anti-Mage", 
+            "Clinkz", 
+            "Night Stalker", 
+            "Chen", 
+            "Keeper of the Light"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/crystal_maiden_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Tidehunter", 
+            "Rubick", 
+            "Io", 
+            "Tiny", 
+            "Techies", 
+            "Gyrocopter", 
+            "Earth Spirit", 
+            "Bristleback", 
+            "Enigma", 
+            "Pudge"
+        ]
+    }, 
+    "Drow Ranger": {
+        "bestAgaint": [
+            "Chen", 
+            "Ember Spirit", 
+            "Visage", 
+            "Warlock", 
+            "Anti-Mage", 
+            "Elder Titan", 
+            "Undying", 
+            "Oracle", 
+            "Weaver", 
+            "Doom"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/drow_ranger_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Phantom Assassin", 
+            "Winter Wyvern", 
+            "Slark", 
+            "Spectre", 
+            "Phantom Lancer", 
+            "Tiny", 
+            "Gyrocopter", 
+            "Tinker", 
+            "Nature's Prophet", 
+            "Techies"
+        ]
+    },
+    "Earthshaker": {
+        "bestAgaint": [
+            "Phantom Lancer", 
+            "Broodmother", 
+            "Meepo", 
+            "Chen", 
+            "Chaos Knight", 
+            "Lycan", 
+            "Beastmaster", 
+            "Brewmaster", 
+            "Slark", 
+            "Visage"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/earthshaker_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Viper", 
+            "Winter Wyvern", 
+            "Lifestealer", 
+            "Enchantress", 
+            "Clockwerk", 
+            "Tiny", 
+            "Timbersaw", 
+            "Sniper", 
+            "Alchemist", 
+            "Leshrac"
+        ]
+    }, 
+    "Morphling": {
+        "bestAgaint": [
+            "Phantom Assassin", 
+            "Sniper", 
+            "Lifestealer", 
+            "Undying", 
+            "Juggernaut", 
+            "Necrophos", 
+            "Viper", 
+            "Alchemist", 
+            "Phoenix", 
+            "Bloodseeker"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/morphling_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Outworld Devourer", 
+            "Techies", 
+            "Meepo", 
+            "Axe", 
+            "Skywrath Mage", 
+            "Tiny", 
+            "Ancient Apparition", 
+            "Puck", 
+            "Anti-Mage", 
+            "Earth Spirit"
+        ]
+    }, 
+    "Shadow Fiend": {
+        "bestAgaint": [
+            "Undying", 
+            "Meepo", 
+            "Spectre", 
+            "Alchemist", 
+            "Chen", 
+            "Drow Ranger", 
+            "Phantom Lancer", 
+            "Phantom Assassin", 
+            "Visage", 
+            "Riki"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/nevermore_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Templar Assassin", 
+            "Techies", 
+            "Terrorblade", 
+            "Tiny", 
+            "Puck", 
+            "Winter Wyvern", 
+            "Bounty Hunter", 
+            "Tinker", 
+            "Lina", 
+            "Shadow Demon"
+        ]
+    }, 
+    "Juggernaut": {
+        "bestAgaint": [
+            "Spectre", 
+            "Underlord", 
+            "Zeus", 
+            "Phoenix", 
+            "Elder Titan", 
+            "Centaur Warrunner", 
+            "Nyx Assassin", 
+            "Viper", 
+            "Clockwerk", 
+            "Undying"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/juggernaut_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Lone Druid", 
+            "Meepo", 
+            "Morphling", 
+            "Io", 
+            "Clinkz", 
+            "Weaver", 
+            "Enchantress", 
+            "Nature's Prophet", 
+            "Legion Commander", 
+            "Ursa"
+        ]
+    }, 
+    "Mirana": {
+        "bestAgaint": [
+            "Undying", 
+            "Brewmaster", 
+            "Medusa", 
+            "Clockwerk", 
+            "Elder Titan", 
+            "Weaver", 
+            "Ursa", 
+            "Sniper", 
+            "Ancient Apparition", 
+            "Drow Ranger"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/mirana_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Bounty Hunter", 
+            "Meepo", 
+            "Tidehunter", 
+            "Zeus", 
+            "Techies", 
+            "Puck", 
+            "Lycan", 
+            "Slark", 
+            "Underlord", 
+            "Spectre"
+        ]
+    }, 
+    "Phantom Lancer": {
+        "bestAgaint": [
+            "Wraith King", 
+            "Chen", 
+            "Templar Assassin", 
+            "Clockwerk", 
+            "Undying", 
+            "Chaos Knight", 
+            "Arc Warden", 
+            "Shadow Demon", 
+            "Visage", 
+            "Vengeful Spirit"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/phantom_lancer_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Timbersaw", 
+            "Axe", 
+            "Dark Seer", 
+            "Earthshaker", 
+            "Sven", 
+            "Leshrac", 
+            "Magnus", 
+            "Sand King", 
+            "Puck", 
+            "Ember Spirit"
+        ]
+    },
+    "Lich": {
+        "bestAgaint": [
+            "Meepo", 
+            "Medusa", 
+            "Troll Warlord", 
+            "Spectre", 
+            "Omniknight", 
+            "Legion Commander", 
+            "Necrophos", 
+            "Chaos Knight", 
+            "Warlock", 
+            "Monkey King"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/lich_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Weaver", 
+            "Huskar", 
+            "Broodmother", 
+            "Tinker", 
+            "Io", 
+            "Lone Druid", 
+            "Phantom Lancer", 
+            "Batrider", 
+            "Storm Spirit", 
+            "Anti-Mage"
+        ]
+    }, 
+    "Razor": {
+        "bestAgaint": [
+            "Chen", 
+            "Oracle", 
+            "Omniknight", 
+            "Ursa", 
+            "Lone Druid", 
+            "Lifestealer", 
+            "Io", 
+            "Sven", 
+            "Magnus", 
+            "Tidehunter"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/razor_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Phantom Lancer", 
+            "Terrorblade", 
+            "Chaos Knight", 
+            "Bloodseeker", 
+            "Brewmaster", 
+            "Venomancer", 
+            "Sniper", 
+            "Anti-Mage", 
+            "Weaver", 
+            "Morphling"
+        ]
+    }, 
+    "Sand King": {
+        "bestAgaint": [
+            "Phantom Lancer", 
+            "Chaos Knight", 
+            "Slark", 
+            "Terrorblade", 
+            "Chen", 
+            "Meepo", 
+            "Vengeful Spirit", 
+            "Troll Warlord", 
+            "Batrider", 
+            "Visage"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/sand_king_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Zeus", 
+            "Lifestealer", 
+            "Enigma", 
+            "Bristleback", 
+            "Underlord", 
+            "Tidehunter", 
+            "Timbersaw", 
+            "Pugna", 
+            "Lina", 
+            "Anti-Mage"
+        ]
+    }, 
+    "Zeus": {
+        "bestAgaint": [
+            "Terrorblade", 
+            "Axe", 
+            "Luna", 
+            "Crystal Maiden", 
+            "Phantom Lancer", 
+            "Weaver", 
+            "Shadow Fiend", 
+            "Morphling", 
+            "Mirana", 
+            "Riki"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/zuus_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Huskar", 
+            "Anti-Mage", 
+            "Broodmother", 
+            "Lifestealer", 
+            "Templar Assassin", 
+            "Io", 
+            "Visage", 
+            "Meepo", 
+            "Lycan", 
+            "Storm Spirit"
+        ]
+    }, 
+    "Kunkka": {
+        "bestAgaint": [
+            "Meepo", 
+            "Phantom Lancer", 
+            "Broodmother", 
+            "Chaos Knight", 
+            "Anti-Mage", 
+            "Spectre", 
+            "Beastmaster", 
+            "Lycan", 
+            "Abaddon", 
+            "Warlock"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/kunkka_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Lifestealer", 
+            "Winter Wyvern", 
+            "Outworld Devourer", 
+            "Puck", 
+            "Timbersaw", 
+            "Nature's Prophet", 
+            "Tiny", 
+            "Death Prophet", 
+            "Templar Assassin", 
+            "Enchantress"
+        ]
+    }, 
+    "Enigma": {
+        "bestAgaint": [
+            "Chaos Knight", 
+            "Meepo", 
+            "Lifestealer", 
+            "Io", 
+            "Omniknight", 
+            "Tidehunter", 
+            "Dragon Knight", 
+            "Huskar", 
+            "Chen", 
+            "Slardar"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/enigma_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Spectre", 
+            "Sniper", 
+            "Medusa", 
+            "Riki", 
+            "Lone Druid", 
+            "Beastmaster", 
+            "Clinkz", 
+            "Enchantress", 
+            "Silencer", 
+            "Rubick"
+        ]
+    }, 
+    "Slardar": {
+        "bestAgaint": [
+            "Chen", 
+            "Broodmother", 
+            "Lycan", 
+            "Bane", 
+            "Clinkz", 
+            "Night Stalker", 
+            "Bristleback", 
+            "Anti-Mage", 
+            "Spectre", 
+            "Io"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/slardar_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Terrorblade", 
+            "Tidehunter", 
+            "Luna", 
+            "Phantom Lancer", 
+            "Enigma", 
+            "Necrophos", 
+            "Naga Siren", 
+            "Enchantress", 
+            "Dark Willow", 
+            "Venomancer"
+        ]
+    }, 
+    "Puck": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Io", 
+            "Winter Wyvern", 
+            "Chen", 
+            "Oracle", 
+            "Slark", 
+            "Timbersaw", 
+            "Phantom Lancer", 
+            "Visage", 
+            "Invoker"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/puck_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Alchemist", 
+            "Medusa", 
+            "Dragon Knight", 
+            "Bristleback", 
+            "Razor", 
+            "Luna", 
+            "Beastmaster", 
+            "Templar Assassin", 
+            "Ember Spirit", 
+            "Riki"
+        ]
+    }, 
+    "Sven": {
+        "bestAgaint": [
+            "Meepo", 
+            "Phantom Lancer", 
+            "Chaos Knight", 
+            "Broodmother", 
+            "Lycan", 
+            "Chen", 
+            "Anti-Mage", 
+            "Beastmaster", 
+            "Huskar", 
+            "Bloodseeker"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/sven_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Troll Warlord", 
+            "Winter Wyvern", 
+            "Medusa", 
+            "Razor", 
+            "Jakiro", 
+            "Templar Assassin", 
+            "Batrider", 
+            "Doom", 
+            "Enchantress", 
+            "Phoenix"
+        ]
+    }, 
+    "Tiny": {
+        "bestAgaint": [
+            "Chen", 
+            "Tidehunter", 
+            "Techies", 
+            "Io", 
+            "Winter Wyvern", 
+            "Elder Titan", 
+            "Visage", 
+            "Broodmother", 
+            "Oracle", 
+            "Morphling"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/tiny_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Lifestealer", 
+            "Phoenix", 
+            "Enchantress", 
+            "Outworld Devourer", 
+            "Death Prophet", 
+            "Ogre Magi", 
+            "Terrorblade", 
+            "Doom", 
+            "Razor", 
+            "Undying"
+        ]
+    }, 
+    "Riki": {
+        "bestAgaint": [
+            "Undying", 
+            "Huskar", 
+            "Anti-Mage", 
+            "Enigma", 
+            "Slark", 
+            "Medusa", 
+            "Phantom Lancer", 
+            "Chaos Knight", 
+            "Faceless Void", 
+            "Storm Spirit"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/riki_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Techies", 
+            "Io", 
+            "Tidehunter", 
+            "Winter Wyvern", 
+            "Bounty Hunter", 
+            "Earth Spirit", 
+            "Tiny", 
+            "Lone Druid", 
+            "Batrider", 
+            "Meepo"
+        ]
+    }, 
+    "Tinker": {
+        "bestAgaint": [
+            "Terrorblade", 
+            "Bloodseeker", 
+            "Phantom Assassin", 
+            "Luna", 
+            "Troll Warlord", 
+            "Drow Ranger", 
+            "Lich", 
+            "Outworld Devourer", 
+            "Meepo", 
+            "Morphling"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/tinker_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Storm Spirit", 
+            "Pudge", 
+            "Lifestealer", 
+            "Batrider", 
+            "Visage", 
+            "Anti-Mage", 
+            "Pugna", 
+            "Nyx Assassin", 
+            "Tiny", 
+            "Clockwerk"
+        ]
+    }, 
+    "Pudge": {
+        "bestAgaint": [
+            "Spectre", 
+            "Zeus", 
+            "Underlord", 
+            "Axe", 
+            "Crystal Maiden", 
+            "Elder Titan", 
+            "Bloodseeker", 
+            "Undying", 
+            "Vengeful Spirit", 
+            "Centaur Warrunner"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/pudge_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Tiny", 
+            "Lone Druid", 
+            "Nature's Prophet", 
+            "Broodmother", 
+            "Puck", 
+            "Outworld Devourer", 
+            "Batrider", 
+            "Lifestealer", 
+            "Death Prophet", 
+            "Earth Spirit"
+        ]
+    }, 
+    "Windranger": {
+        "bestAgaint": [
+            "Undying", 
+            "Troll Warlord", 
+            "Ursa", 
+            "Omniknight", 
+            "Lifestealer", 
+            "Abaddon", 
+            "Dark Seer", 
+            "Huskar", 
+            "Slark", 
+            "Ancient Apparition"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/windrunner_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Puck", 
+            "Tiny", 
+            "Nature's Prophet", 
+            "Techies", 
+            "Tidehunter", 
+            "Centaur Warrunner", 
+            "Tinker", 
+            "Pugna", 
+            "Timbersaw", 
+            "Oracle"
+        ]
+    }, 
+    "Tidehunter": {
+        "bestAgaint": [
+            "Chaos Knight", 
+            "Phantom Assassin", 
+            "Wraith King", 
+            "Riki", 
+            "Spectre", 
+            "Slardar", 
+            "Spirit Breaker", 
+            "Storm Spirit", 
+            "Faceless Void", 
+            "Lion"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/tidehunter_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Chen", 
+            "Lone Druid", 
+            "Arc Warden", 
+            "Meepo", 
+            "Broodmother", 
+            "Visage", 
+            "Oracle", 
+            "Earth Spirit", 
+            "Batrider", 
+            "Dark Seer"
+        ]
+    }, 
+    "Witch Doctor": {
+        "bestAgaint": [
+            "Spectre", 
+            "Underlord", 
+            "Viper", 
+            "Centaur Warrunner", 
+            "Undying", 
+            "Axe", 
+            "Clockwerk", 
+            "Chaos Knight", 
+            "Spirit Breaker", 
+            "Dragon Knight"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/witch_doctor_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Chen", 
+            "Broodmother", 
+            "Arc Warden", 
+            "Beastmaster", 
+            "Phantom Lancer", 
+            "Lone Druid", 
+            "Puck", 
+            "Oracle", 
+            "Io", 
+            "Visage"
+        ]
+    }, 
+    "Storm Spirit": {
+        "bestAgaint": [
+            "Sniper", 
+            "Bloodseeker", 
+            "Zeus", 
+            "Slark", 
+            "Tinker", 
+            "Phantom Lancer", 
+            "Ancient Apparition", 
+            "Brewmaster", 
+            "Clockwerk", 
+            "Broodmother"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/storm_spirit_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Meepo", 
+            "Anti-Mage", 
+            "Huskar", 
+            "Death Prophet", 
+            "Medusa", 
+            "Tidehunter", 
+            "Earth Spirit", 
+            "Treant Protector", 
+            "Silencer", 
+            "Oracle"
+        ]
+    }, 
+    "Lion": {
+        "bestAgaint": [
+            "Slark", 
+            "Abaddon", 
+            "Legion Commander", 
+            "Ancient Apparition", 
+            "Ursa", 
+            "Faceless Void", 
+            "Storm Spirit", 
+            "Troll Warlord", 
+            "Brewmaster", 
+            "Lich"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/lion_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Tidehunter", 
+            "Winter Wyvern", 
+            "Io", 
+            "Pugna", 
+            "Tiny", 
+            "Nature's Prophet", 
+            "Lone Druid", 
+            "Arc Warden", 
+            "Gyrocopter", 
+            "Rubick"
+        ]
+    }, 
+    "Vengeful Spirit": {
+        "bestAgaint": [
+            "Death Prophet", 
+            "Legion Commander", 
+            "Oracle", 
+            "Huskar", 
+            "Enigma", 
+            "Faceless Void", 
+            "Centaur Warrunner", 
+            "Batrider", 
+            "Shadow Fiend", 
+            "Sven"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/vengefulspirit_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Phantom Lancer", 
+            "Terrorblade", 
+            "Winter Wyvern", 
+            "Spectre", 
+            "Tidehunter", 
+            "Meepo", 
+            "Dark Seer", 
+            "Abaddon", 
+            "Lone Druid", 
+            "Sand King"
+        ]
+    }, 
+    "Lina": {
+        "bestAgaint": [
+            "Meepo", 
+            "Broodmother", 
+            "Omniknight", 
+            "Phoenix", 
+            "Undying", 
+            "Death Prophet", 
+            "Doom", 
+            "Necrophos", 
+            "Morphling", 
+            "Treant Protector"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/lina_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Pugna", 
+            "Templar Assassin", 
+            "Tiny", 
+            "Sniper", 
+            "Gyrocopter", 
+            "Weaver", 
+            "Lycan", 
+            "Puck", 
+            "Drow Ranger", 
+            "Razor"
+        ]
+    }, 
+    "Shadow Shaman": {
+        "bestAgaint": [
+            "Undying", 
+            "Slark", 
+            "Huskar", 
+            "Storm Spirit", 
+            "Anti-Mage", 
+            "Faceless Void", 
+            "Juggernaut", 
+            "Lifestealer", 
+            "Weaver", 
+            "Ancient Apparition"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/shadow_shaman_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Meepo", 
+            "Visage", 
+            "Phantom Lancer", 
+            "Winter Wyvern", 
+            "Dark Seer", 
+            "Nature's Prophet", 
+            "Spectre", 
+            "Timbersaw", 
+            "Sniper", 
+            "Tiny"
+        ]
+    },
+    "Dazzle": {
+        "bestAgaint": [
+            "Legion Commander", 
+            "Centaur Warrunner", 
+            "Lifestealer", 
+            "Lycan", 
+            "Treant Protector", 
+            "Tidehunter", 
+            "Spectre", 
+            "Alchemist", 
+            "Clockwerk", 
+            "Abaddon"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/dazzle_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Phantom Lancer", 
+            "Ancient Apparition", 
+            "Pugna", 
+            "Arc Warden", 
+            "Morphling", 
+            "Broodmother", 
+            "Razor", 
+            "Enigma", 
+            "Death Prophet", 
+            "Gyrocopter"
+        ]
+    }, 
+    "Night Stalker": {
+        "bestAgaint": [
+            "Keeper of the Light", 
+            "Storm Spirit", 
+            "Morphling", 
+            "Skywrath Mage", 
+            "Ancient Apparition", 
+            "Arc Warden", 
+            "Nyx Assassin", 
+            "Pugna", 
+            "Riki", 
+            "Silencer"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/night_stalker_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Lycan", 
+            "Meepo", 
+            "Broodmother", 
+            "Chaos Knight", 
+            "Bloodseeker", 
+            "Phantom Lancer", 
+            "Templar Assassin", 
+            "Bounty Hunter", 
+            "Treant Protector", 
+            "Huskar"
+        ]
+    }, 
+    "Dragon Knight": {
+        "bestAgaint": [
+            "Techies", 
+            "Bristleback", 
+            "Phantom Assassin", 
+            "Legion Commander", 
+            "Storm Spirit", 
+            "Centaur Warrunner", 
+            "Nyx Assassin", 
+            "Axe", 
+            "Spectre", 
+            "Riki"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/dragon_knight_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Slark", 
+            "Dark Seer", 
+            "Underlord", 
+            "Timbersaw", 
+            "Outworld Devourer", 
+            "Chen", 
+            "Necrophos", 
+            "Enigma", 
+            "Meepo", 
+            "Death Prophet"
+        ]
+    }, 
+    "Queen of Pain": {
+        "bestAgaint": [
+            "Shadow Demon", 
+            "Clockwerk", 
+            "Brewmaster", 
+            "Undying", 
+            "Batrider", 
+            "Timbersaw", 
+            "Slark", 
+            "Storm Spirit", 
+            "Leshrac", 
+            "Elder Titan"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/queenofpain_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Meepo", 
+            "Medusa", 
+            "Huskar", 
+            "Drow Ranger", 
+            "Puck", 
+            "Legion Commander", 
+            "Viper", 
+            "Lina", 
+            "Wraith King", 
+            "Tiny"
+        ]
+    }, 
+    "Viper": {
+        "bestAgaint": [
+            "Spectre", 
+            "Templar Assassin", 
+            "Bristleback", 
+            "Zeus", 
+            "Huskar", 
+            "Visage", 
+            "Chen", 
+            "Dragon Knight", 
+            "Earthshaker", 
+            "Leshrac"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/viper_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Terrorblade", 
+            "Chaos Knight", 
+            "Phantom Lancer", 
+            "Juggernaut", 
+            "Invoker", 
+            "Lifestealer", 
+            "Witch Doctor", 
+            "Morphling", 
+            "Broodmother", 
+            "Outworld Devourer"
+        ]
+    }, 
+    "Ursa": {
+        "bestAgaint": [
+            "Huskar", 
+            "Underlord", 
+            "Legion Commander", 
+            "Lifestealer", 
+            "Chen", 
+            "Juggernaut", 
+            "Meepo", 
+            "Ember Spirit", 
+            "Axe", 
+            "Lycan"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/ursa_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Razor", 
+            "Phantom Lancer", 
+            "Venomancer", 
+            "Terrorblade", 
+            "Chaos Knight", 
+            "Templar Assassin", 
+            "Windranger", 
+            "Batrider", 
+            "Ogre Magi", 
+            "Crystal Maiden"
+        ]
+    }, 
+    "Nature's Prophet": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Winter Wyvern", 
+            "Ancient Apparition", 
+            "Dark Willow", 
+            "Sniper", 
+            "Silencer", 
+            "Drow Ranger", 
+            "Lifestealer", 
+            "Doom", 
+            "Undying"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/furion_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Chen", 
+            "Broodmother", 
+            "Meepo", 
+            "Beastmaster", 
+            "Visage", 
+            "Lone Druid", 
+            "Arc Warden", 
+            "Naga Siren", 
+            "Storm Spirit", 
+            "Batrider"
+        ]
+    }, 
+    "Sniper": {
+        "bestAgaint": [
+            "Underlord", 
+            "Medusa", 
+            "Undying", 
+            "Visage", 
+            "Elder Titan", 
+            "Enigma", 
+            "Death Prophet", 
+            "Necrophos", 
+            "Silencer", 
+            "Warlock"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/sniper_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Storm Spirit", 
+            "Tiny", 
+            "Nature's Prophet", 
+            "Morphling", 
+            "Enchantress", 
+            "Timbersaw", 
+            "Lone Druid", 
+            "Slark", 
+            "Tinker", 
+            "Legion Commander"
+        ]
+    }, 
+    "Warlock": {
+        "bestAgaint": [
+            "Spectre", 
+            "Chaos Knight", 
+            "Terrorblade", 
+            "Necrophos", 
+            "Centaur Warrunner", 
+            "Axe", 
+            "Wraith King", 
+            "Pudge", 
+            "Vengeful Spirit", 
+            "Visage"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/warlock_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Broodmother", 
+            "Chen", 
+            "Drow Ranger", 
+            "Lycan", 
+            "Oracle", 
+            "Clinkz", 
+            "Brewmaster", 
+            "Bounty Hunter", 
+            "Shadow Demon", 
+            "Earth Spirit"
+        ]
+    }, 
+    "Gyrocopter": {
+        "bestAgaint": [
+            "Visage", 
+            "Lycan", 
+            "Broodmother", 
+            "Undying", 
+            "Troll Warlord", 
+            "Terrorblade", 
+            "Naga Siren", 
+            "Batrider", 
+            "Beastmaster", 
+            "Drow Ranger"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/gyrocopter_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Lifestealer", 
+            "Juggernaut", 
+            "Zeus", 
+            "Abaddon", 
+            "Tinker", 
+            "Underlord", 
+            "Bounty Hunter", 
+            "Huskar", 
+            "Clockwerk", 
+            "Tidehunter"
+        ]
+    }, 
+    "Spirit Breaker": {
+        "bestAgaint": [
+            "Broodmother", 
+            "Clinkz", 
+            "Drow Ranger", 
+            "Sniper", 
+            "Axe", 
+            "Spectre", 
+            "Night Stalker", 
+            "Silencer", 
+            "Legion Commander", 
+            "Skywrath Mage"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/spirit_breaker_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Chen", 
+            "Underlord", 
+            "Tidehunter", 
+            "Treant Protector", 
+            "Meepo", 
+            "Terrorblade", 
+            "Ember Spirit", 
+            "Tiny", 
+            "Dark Willow", 
+            "Necrophos"
+        ]
+    }, 
+    "Pugna": {
+        "bestAgaint": [
+            "Outworld Devourer", 
+            "Necrophos", 
+            "Winter Wyvern", 
+            "Timbersaw", 
+            "Skywrath Mage", 
+            "Axe", 
+            "Leshrac", 
+            "Tidehunter", 
+            "Dark Willow", 
+            "Dazzle"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/pugna_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Arc Warden", 
+            "Huskar", 
+            "Batrider", 
+            "Anti-Mage", 
+            "Lycan", 
+            "Lone Druid", 
+            "Chen", 
+            "Broodmother", 
+            "Alchemist", 
+            "Pudge"
+        ]
+    }, 
+    "Leshrac": {
+        "bestAgaint": [
+            "Phantom Lancer", 
+            "Tidehunter", 
+            "Winter Wyvern", 
+            "Timbersaw", 
+            "Meepo", 
+            "Slark", 
+            "Terrorblade", 
+            "Troll Warlord", 
+            "Omniknight", 
+            "Faceless Void"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/leshrac_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Chen", 
+            "Arc Warden", 
+            "Huskar", 
+            "Undying", 
+            "Lifestealer", 
+            "Lone Druid", 
+            "Broodmother", 
+            "Clockwerk", 
+            "Pugna", 
+            "Sniper"
+        ]
+    }, 
+    "Beastmaster": {
+        "bestAgaint": [
+            "Visage", 
+            "Tidehunter", 
+            "Nature's Prophet", 
+            "Lycan", 
+            "Io", 
+            "Witch Doctor", 
+            "Puck", 
+            "Enigma", 
+            "Oracle", 
+            "Techies"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/beastmaster_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Phantom Lancer", 
+            "Axe", 
+            "Bristleback", 
+            "Jakiro", 
+            "Undying", 
+            "Kunkka", 
+            "Ember Spirit", 
+            "Sven", 
+            "Earthshaker", 
+            "Alchemist"
+        ]
+    }, 
+    "Jakiro": {
+        "bestAgaint": [
+            "Meepo", 
+            "Visage", 
+            "Beastmaster", 
+            "Sven", 
+            "Chaos Knight", 
+            "Axe", 
+            "Medusa", 
+            "Troll Warlord", 
+            "Phantom Lancer", 
+            "Lone Druid"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/jakiro_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Arc Warden", 
+            "Rubick", 
+            "Enchantress", 
+            "Pugna", 
+            "Sniper", 
+            "Lifestealer", 
+            "Pangolier", 
+            "Oracle", 
+            "Windranger", 
+            "Morphling"
+        ]
+    }, 
+    "Silencer": {
+        "bestAgaint": [
+            "Bristleback", 
+            "Outworld Devourer", 
+            "Storm Spirit", 
+            "Timbersaw", 
+            "Necrophos", 
+            "Enigma", 
+            "Phoenix", 
+            "Ember Spirit", 
+            "Undying", 
+            "Kunkka"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/silencer_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Phantom Lancer", 
+            "Broodmother", 
+            "Lycan", 
+            "Huskar", 
+            "Sniper", 
+            "Tidehunter", 
+            "Nature's Prophet", 
+            "Keeper of the Light", 
+            "Bounty Hunter", 
+            "Abaddon"
+        ]
+    }, 
+    "Broodmother": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Io", 
+            "Chen", 
+            "Visage", 
+            "Warlock", 
+            "Oracle", 
+            "Winter Wyvern", 
+            "Techies", 
+            "Doom", 
+            "Underlord"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/broodmother_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Earthshaker", 
+            "Sven", 
+            "Spirit Breaker", 
+            "Kunkka", 
+            "Axe", 
+            "Slardar", 
+            "Lina", 
+            "Legion Commander", 
+            "Troll Warlord", 
+            "Gyrocopter"
+        ]
+    }, 
+    "Ancient Apparition": {
+        "bestAgaint": [
+            "Huskar", 
+            "Necrophos", 
+            "Bristleback", 
+            "Morphling", 
+            "Underlord", 
+            "Dazzle", 
+            "Crystal Maiden", 
+            "Slark", 
+            "Dragon Knight", 
+            "Timbersaw"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/ancient_apparition_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Anti-Mage", 
+            "Arc Warden", 
+            "Phantom Lancer", 
+            "Broodmother", 
+            "Clinkz", 
+            "Nature's Prophet", 
+            "Lone Druid", 
+            "Storm Spirit", 
+            "Lycan", 
+            "Chaos Knight"
+        ]
+    }, 
+    "Huskar": {
+        "bestAgaint": [
+            "Ember Spirit", 
+            "Zeus", 
+            "Underlord", 
+            "Venomancer", 
+            "Clockwerk", 
+            "Pugna", 
+            "Spectre", 
+            "Arc Warden", 
+            "Io", 
+            "Leshrac"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/huskar_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Chaos Knight", 
+            "Troll Warlord", 
+            "Ancient Apparition", 
+            "Phantom Lancer", 
+            "Riki", 
+            "Ursa", 
+            "Phantom Assassin", 
+            "Viper", 
+            "Enigma", 
+            "Windranger"
+        ]
+    }, 
+    "Doom": {
+        "bestAgaint": [
+            "Spectre", 
+            "Axe", 
+            "Elder Titan", 
+            "Chen", 
+            "Timbersaw", 
+            "Centaur Warrunner", 
+            "Brewmaster", 
+            "Juggernaut", 
+            "Sven", 
+            "Underlord"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/doom_bringer_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Broodmother", 
+            "Meepo", 
+            "Chaos Knight", 
+            "Lycan", 
+            "Drow Ranger", 
+            "Death Prophet", 
+            "Huskar", 
+            "Lifestealer", 
+            "Medusa", 
+            "Clinkz"
+        ]
+    }, 
+    "Omniknight": {
+        "bestAgaint": [
+            "Spectre", 
+            "Chaos Knight", 
+            "Treant Protector", 
+            "Riki", 
+            "Earth Spirit", 
+            "Night Stalker", 
+            "Lifestealer", 
+            "Brewmaster", 
+            "Techies", 
+            "Storm Spirit"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/omniknight_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Razor", 
+            "Enigma", 
+            "Death Prophet", 
+            "Medusa", 
+            "Weaver", 
+            "Lina", 
+            "Luna", 
+            "Templar Assassin", 
+            "Windranger", 
+            "Morphling"
+        ]
+    }, 
+    "Dark Seer": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Io", 
+            "Phantom Lancer", 
+            "Winter Wyvern", 
+            "Chaos Knight", 
+            "Dragon Knight", 
+            "Visage", 
+            "Wraith King", 
+            "Pugna", 
+            "Templar Assassin"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_seer_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Batrider", 
+            "Lone Druid", 
+            "Clinkz", 
+            "Anti-Mage", 
+            "Ember Spirit", 
+            "Troll Warlord", 
+            "Keeper of the Light", 
+            "Magnus", 
+            "Windranger", 
+            "Naga Siren"
+        ]
+    }, 
+    "Clinkz": {
+        "bestAgaint": [
+            "Ember Spirit", 
+            "Phoenix", 
+            "Juggernaut", 
+            "Elder Titan", 
+            "Undying", 
+            "Ancient Apparition", 
+            "Dark Seer", 
+            "Warlock", 
+            "Lifestealer", 
+            "Enigma"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/clinkz_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Phantom Lancer", 
+            "Puck", 
+            "Spirit Breaker", 
+            "Slark", 
+            "Axe", 
+            "Bounty Hunter", 
+            "Tiny", 
+            "Slardar", 
+            "Ursa", 
+            "Terrorblade"
+        ]
+    }, 
+    "Alchemist": {
+        "bestAgaint": [
+            "Chen", 
+            "Tidehunter", 
+            "Elder Titan", 
+            "Io", 
+            "Puck", 
+            "Techies", 
+            "Visage", 
+            "Winter Wyvern", 
+            "Treant Protector", 
+            "Batrider"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/alchemist_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Slark", 
+            "Shadow Fiend", 
+            "Dazzle", 
+            "Phantom Assassin", 
+            "Morphling", 
+            "Troll Warlord", 
+            "Huskar", 
+            "Lifestealer", 
+            "Meepo", 
+            "Monkey King"
+        ]
+    }, 
+    "Batrider": {
+        "bestAgaint": [
+            "Io", 
+            "Chen", 
+            "Tidehunter", 
+            "Timbersaw", 
+            "Winter Wyvern", 
+            "Techies", 
+            "Visage", 
+            "Dark Seer", 
+            "Lone Druid", 
+            "Treant Protector"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/batrider_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Slark", 
+            "Lifestealer", 
+            "Weaver", 
+            "Undying", 
+            "Alchemist", 
+            "Abaddon", 
+            "Gyrocopter", 
+            "Queen of Pain", 
+            "Sand King", 
+            "Juggernaut"
+        ]
+    }, 
+    "Spectre": {
+        "bestAgaint": [
+            "Sniper", 
+            "Luna", 
+            "Drow Ranger", 
+            "Enigma", 
+            "Windranger", 
+            "Vengeful Spirit", 
+            "Shadow Shaman", 
+            "Techies", 
+            "Axe", 
+            "Riki"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/spectre_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Viper", 
+            "Undying", 
+            "Lifestealer", 
+            "Treant Protector", 
+            "Anti-Mage", 
+            "Juggernaut", 
+            "Huskar", 
+            "Necrophos", 
+            "Omniknight", 
+            "Io"
+        ]
+    }, 
+    "Clockwerk": {
+        "bestAgaint": [
+            "Luna", 
+            "Tinker", 
+            "Earthshaker", 
+            "Leshrac", 
+            "Windranger", 
+            "Axe", 
+            "Naga Siren", 
+            "Sniper", 
+            "Clinkz", 
+            "Gyrocopter"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/rattletrap_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Anti-Mage", 
+            "Phantom Lancer", 
+            "Huskar", 
+            "Broodmother", 
+            "Meepo", 
+            "Queen of Pain", 
+            "Undying", 
+            "Terrorblade", 
+            "Dazzle", 
+            "Lifestealer"
+        ]
+    }, 
+    "Faceless Void": {
+        "bestAgaint": [
+            "Undying", 
+            "Weaver", 
+            "Slark", 
+            "Abaddon", 
+            "Warlock", 
+            "Elder Titan", 
+            "Clockwerk", 
+            "Juggernaut", 
+            "Ancient Apparition", 
+            "Chen"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/faceless_void_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Meepo", 
+            "Tidehunter", 
+            "Winter Wyvern", 
+            "Huskar", 
+            "Templar Assassin", 
+            "Tiny", 
+            "Broodmother", 
+            "Enchantress", 
+            "Naga Siren", 
+            "Skywrath Mage"
+        ]
+    }, 
+    "Weaver": {
+        "bestAgaint": [
+            "Lifestealer", 
+            "Batrider", 
+            "Undying", 
+            "Death Prophet", 
+            "Omniknight", 
+            "Brewmaster", 
+            "Lich", 
+            "Juggernaut", 
+            "Chen", 
+            "Pudge"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/weaver_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Faceless Void", 
+            "Techies", 
+            "Drow Ranger", 
+            "Zeus", 
+            "Bloodseeker", 
+            "Riki", 
+            "Slark", 
+            "Mirana", 
+            "Phantom Lancer", 
+            "Bristleback"
+        ]
+    }, 
+    "Lifestealer": {
+        "bestAgaint": [
+            "Spectre", 
+            "Zeus", 
+            "Batrider", 
+            "Centaur Warrunner", 
+            "Nyx Assassin", 
+            "Ember Spirit", 
+            "Elder Titan", 
+            "Kunkka", 
+            "Underlord", 
+            "Tiny"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/life_stealer_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Weaver", 
+            "Templar Assassin", 
+            "Phantom Assassin", 
+            "Troll Warlord", 
+            "Medusa", 
+            "Razor", 
+            "Enigma", 
+            "Dazzle", 
+            "Terrorblade", 
+            "Morphling"
+        ]
+    }, 
+    "Venomancer": {
+        "bestAgaint": [
+            "Ursa", 
+            "Axe", 
+            "Templar Assassin", 
+            "Lone Druid", 
+            "Dark Willow", 
+            "Winter Wyvern", 
+            "Razor", 
+            "Doom", 
+            "Monkey King", 
+            "Night Stalker"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/venomancer_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Huskar", 
+            "Anti-Mage", 
+            "Arc Warden", 
+            "Timbersaw", 
+            "Phantom Lancer", 
+            "Lycan", 
+            "Alchemist", 
+            "Sniper", 
+            "Terrorblade", 
+            "Slark"
+        ]
+    }, 
+    "Wraith King": {
+        "bestAgaint": [
+            "Spectre", 
+            "Elder Titan", 
+            "Axe", 
+            "Centaur Warrunner", 
+            "Legion Commander", 
+            "Faceless Void", 
+            "Bloodseeker", 
+            "Techies", 
+            "Silencer", 
+            "Skywrath Mage"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/skeleton_king_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Phantom Lancer", 
+            "Tidehunter", 
+            "Underlord", 
+            "Dark Seer", 
+            "Undying", 
+            "Terrorblade", 
+            "Anti-Mage", 
+            "Visage", 
+            "Rubick", 
+            "Keeper of the Light"
+        ]
+    }, 
+    "Templar Assassin": {
+        "bestAgaint": [
+            "Techies", 
+            "Chen", 
+            "Lifestealer", 
+            "Zeus", 
+            "Io", 
+            "Tidehunter", 
+            "Rubick", 
+            "Nyx Assassin", 
+            "Lycan", 
+            "Centaur Warrunner"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/templar_assassin_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Phantom Lancer", 
+            "Viper", 
+            "Slark", 
+            "Venomancer", 
+            "Terrorblade", 
+            "Sniper", 
+            "Batrider", 
+            "Dark Seer", 
+            "Ember Spirit", 
+            "Dragon Knight"
+        ]
+    }, 
+    "Bounty Hunter": {
+        "bestAgaint": [
+            "Chen", 
+            "Riki", 
+            "Undying", 
+            "Mirana", 
+            "Night Stalker", 
+            "Warlock", 
+            "Spectre", 
+            "Clinkz", 
+            "Silencer", 
+            "Monkey King"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/bounty_hunter_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Huskar", 
+            "Techies", 
+            "Phantom Lancer", 
+            "Slark", 
+            "Legion Commander", 
+            "Puck", 
+            "Chaos Knight", 
+            "Anti-Mage", 
+            "Tinker", 
+            "Bloodseeker"
+        ]
+    }, 
+    "Death Prophet": {
+        "bestAgaint": [
+            "Treant Protector", 
+            "Centaur Warrunner", 
+            "Storm Spirit", 
+            "Omniknight", 
+            "Tidehunter", 
+            "Timbersaw", 
+            "Pudge", 
+            "Io", 
+            "Axe", 
+            "Winter Wyvern"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/death_prophet_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Sniper", 
+            "Medusa", 
+            "Drow Ranger", 
+            "Weaver", 
+            "Undying", 
+            "Lina", 
+            "Bloodseeker", 
+            "Luna", 
+            "Phantom Lancer", 
+            "Vengeful Spirit"
+        ]
+    }, 
+    "Luna": {
+        "bestAgaint": [
+            "Undying", 
+            "Slardar", 
+            "Anti-Mage", 
+            "Outworld Devourer", 
+            "Omniknight", 
+            "Shadow Shaman", 
+            "Death Prophet", 
+            "Necrophos", 
+            "Brewmaster", 
+            "Naga Siren"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/luna_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Shadow Demon", 
+            "Broodmother", 
+            "Bristleback", 
+            "Tinker", 
+            "Spectre", 
+            "Clockwerk", 
+            "Rubick", 
+            "Nyx Assassin", 
+            "Dark Seer", 
+            "Terrorblade"
+        ]
+    }, 
+    "Necrophos": {
+        "bestAgaint": [
+            "Bristleback", 
+            "Spectre", 
+            "Dragon Knight", 
+            "Naga Siren", 
+            "Slark", 
+            "Broodmother", 
+            "Slardar", 
+            "Spirit Breaker", 
+            "Timbersaw", 
+            "Huskar"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/necrolyte_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Pugna", 
+            "Ancient Apparition", 
+            "Arc Warden", 
+            "Medusa", 
+            "Skywrath Mage", 
+            "Terrorblade", 
+            "Morphling", 
+            "Sniper", 
+            "Enchantress", 
+            "Drow Ranger"
+        ]
+    }, 
+    "Phantom Assassin": {
+        "bestAgaint": [
+            "Anti-Mage", 
+            "Drow Ranger", 
+            "Lycan", 
+            "Arc Warden", 
+            "Lifestealer", 
+            "Riki", 
+            "Phantom Lancer", 
+            "Chen", 
+            "Invoker", 
+            "Undying"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/phantom_assassin_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Tidehunter", 
+            "Timbersaw", 
+            "Morphling", 
+            "Tinker", 
+            "Templar Assassin", 
+            "Pangolier", 
+            "Puck", 
+            "Tiny", 
+            "Razor", 
+            "Batrider"
+        ]
+    }, 
+    "Chen": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Winter Wyvern", 
+            "Io", 
+            "Timbersaw", 
+            "Techies", 
+            "Nature's Prophet", 
+            "Visage", 
+            "Warlock", 
+            "Oracle", 
+            "Treant Protector"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/chen_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Broodmother", 
+            "Batrider", 
+            "Alchemist", 
+            "Arc Warden", 
+            "Phantom Lancer", 
+            "Razor", 
+            "Tiny", 
+            "Lycan", 
+            "Drow Ranger", 
+            "Templar Assassin"
+        ]
+    }, 
+    "Enchantress": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Io", 
+            "Winter Wyvern", 
+            "Underlord", 
+            "Timbersaw", 
+            "Rubick", 
+            "Visage", 
+            "Outworld Devourer", 
+            "Tiny", 
+            "Phoenix"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/enchantress_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Phantom Lancer", 
+            "Arc Warden", 
+            "Phantom Assassin", 
+            "Slark", 
+            "Brewmaster", 
+            "Centaur Warrunner", 
+            "Meepo", 
+            "Alchemist", 
+            "Beastmaster", 
+            "Bristleback"
+        ]
+    }, 
+    "Invoker": {
+        "bestAgaint": [
+            "Spectre", 
+            "Chaos Knight", 
+            "Zeus", 
+            "Wraith King", 
+            "Medusa", 
+            "Underlord", 
+            "Viper", 
+            "Abaddon", 
+            "Undying", 
+            "Clockwerk"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/invoker_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Broodmother", 
+            "Puck", 
+            "Tiny", 
+            "Templar Assassin", 
+            "Nature's Prophet", 
+            "Timbersaw", 
+            "Pugna", 
+            "Phantom Assassin", 
+            "Lifestealer", 
+            "Outworld Devourer"
+        ]
+    },
+    "Ogre Magi": {
+        "bestAgaint": [
+            "Ursa", 
+            "Enchantress", 
+            "Riki", 
+            "Clinkz", 
+            "Phantom Assassin", 
+            "Drow Ranger", 
+            "Tiny", 
+            "Troll Warlord", 
+            "Bristleback", 
+            "Brewmaster"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/ogre_magi_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Phantom Lancer", 
+            "Winter Wyvern", 
+            "Huskar", 
+            "Tidehunter", 
+            "Meepo", 
+            "Sand King", 
+            "Oracle", 
+            "Slark", 
+            "Abaddon", 
+            "Enigma"
+        ]
+    }, 
+    "Disruptor": {
+        "bestAgaint": [
+            "Chen", 
+            "Slark", 
+            "Riki", 
+            "Necrophos", 
+            "Brewmaster", 
+            "Beastmaster", 
+            "Storm Spirit", 
+            "Techies", 
+            "Crystal Maiden", 
+            "Phoenix"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/disruptor_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Huskar", 
+            "Sniper", 
+            "Oracle", 
+            "Lifestealer", 
+            "Bloodseeker", 
+            "Arc Warden", 
+            "Io", 
+            "Pugna", 
+            "Lycan", 
+            "Drow Ranger"
+        ]
+    }, 
+    "Timbersaw": {
+        "bestAgaint": [
+            "Phantom Lancer", 
+            "Winter Wyvern", 
+            "Chaos Knight", 
+            "Axe", 
+            "Dragon Knight", 
+            "Tidehunter", 
+            "Phantom Assassin", 
+            "Underlord", 
+            "Lycan", 
+            "Terrorblade"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/shredder_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Chen", 
+            "Batrider", 
+            "Visage", 
+            "Lone Druid", 
+            "Arc Warden", 
+            "Outworld Devourer", 
+            "Pangolier", 
+            "Earth Spirit", 
+            "Enchantress", 
+            "Pugna"
+        ]
+    }, 
+    "Naga Siren": {
+        "bestAgaint": [
+            "Winter Wyvern", 
+            "Techies", 
+            "Chen", 
+            "Io", 
+            "Lycan", 
+            "Tidehunter", 
+            "Arc Warden", 
+            "Treant Protector", 
+            "Nature's Prophet", 
+            "Broodmother"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/naga_siren_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Outworld Devourer", 
+            "Necrophos", 
+            "Huskar", 
+            "Alchemist", 
+            "Gyrocopter", 
+            "Clockwerk", 
+            "Oracle", 
+            "Ember Spirit", 
+            "Earthshaker", 
+            "Elder Titan"
+        ]
+    }, 
+    "Magnus": {
+        "bestAgaint": [
+            "Phantom Lancer", 
+            "Chen", 
+            "Meepo", 
+            "Visage", 
+            "Chaos Knight", 
+            "Broodmother", 
+            "Dark Seer", 
+            "Morphling", 
+            "Beastmaster", 
+            "Warlock"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/magnataur_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Alchemist", 
+            "Razor", 
+            "Huskar", 
+            "Tinker", 
+            "Doom", 
+            "Death Prophet", 
+            "Spectre", 
+            "Templar Assassin", 
+            "Lich", 
+            "Elder Titan"
+        ]
+    }, 
+    "Legion Commander": {
+        "bestAgaint": [
+            "Bristleback", 
+            "Anti-Mage", 
+            "Phantom Lancer", 
+            "Broodmother", 
+            "Warlock", 
+            "Chen", 
+            "Arc Warden", 
+            "Ember Spirit", 
+            "Clinkz", 
+            "Juggernaut"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/legion_commander_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Winter Wyvern", 
+            "Dazzle", 
+            "Oracle", 
+            "Tiny", 
+            "Monkey King", 
+            "Medusa", 
+            "Troll Warlord", 
+            "Ursa", 
+            "Templar Assassin", 
+            "Razor"
+        ]
+    }, 
+    "Undying": {
+        "bestAgaint": [
+            "Spectre", 
+            "Abaddon", 
+            "Winter Wyvern", 
+            "Wraith King", 
+            "Leshrac", 
+            "Brewmaster", 
+            "Batrider", 
+            "Death Prophet", 
+            "Pudge", 
+            "Rubick"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/undying_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Anti-Mage", 
+            "Phantom Lancer", 
+            "Medusa", 
+            "Faceless Void", 
+            "Luna", 
+            "Weaver", 
+            "Meepo", 
+            "Clinkz", 
+            "Sniper", 
+            "Drow Ranger"
+        ]
+    }, 
+    "Outworld Devourer": {
+        "bestAgaint": [
+            "Anti-Mage", 
+            "Chen", 
+            "Naga Siren", 
+            "Timbersaw", 
+            "Morphling", 
+            "Ember Spirit", 
+            "Dragon Knight", 
+            "Axe", 
+            "Underlord", 
+            "Abaddon"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/obsidian_destroyer_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Pugna", 
+            "Silencer", 
+            "Arc Warden", 
+            "Sniper", 
+            "Luna", 
+            "Tinker", 
+            "Enchantress", 
+            "Phantom Assassin", 
+            "Windranger", 
+            "Batrider"
+        ]
+    }, 
+    "Tusk": {
+        "bestAgaint": [
+            "Chen", 
+            "Keeper of the Light", 
+            "Beastmaster", 
+            "Slark", 
+            "Techies", 
+            "Rubick", 
+            "Abaddon", 
+            "Tiny", 
+            "Shadow Demon", 
+            "Spectre"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/tusk_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Broodmother", 
+            "Phantom Lancer", 
+            "Templar Assassin", 
+            "Enchantress", 
+            "Underlord", 
+            "Magnus", 
+            "Timbersaw", 
+            "Leshrac", 
+            "Faceless Void", 
+            "Queen of Pain"
+        ]
+    }, 
+    "Lycan": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Io", 
+            "Night Stalker", 
+            "Chen", 
+            "Techies", 
+            "Pugna", 
+            "Pudge", 
+            "Zeus", 
+            "Spectre", 
+            "Warlock"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/lycan_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Naga Siren", 
+            "Bristleback", 
+            "Troll Warlord", 
+            "Sven", 
+            "Monkey King", 
+            "Beastmaster", 
+            "Phantom Assassin", 
+            "Gyrocopter", 
+            "Dazzle", 
+            "Phantom Lancer"
+        ]
+    }, 
+    "Meepo": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Io", 
+            "Anti-Mage", 
+            "Storm Spirit", 
+            "Chen", 
+            "Queen of Pain", 
+            "Treant Protector", 
+            "Bane", 
+            "Doom", 
+            "Nature's Prophet"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/meepo_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Sven", 
+            "Earthshaker", 
+            "Kunkka", 
+            "Pangolier", 
+            "Lina", 
+            "Underlord", 
+            "Elder Titan", 
+            "Shadow Fiend", 
+            "Axe", 
+            "Jakiro"
+        ]
+    }, 
+    "Winter Wyvern": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Legion Commander", 
+            "Kunkka", 
+            "Troll Warlord", 
+            "Riki", 
+            "Drow Ranger", 
+            "Vengeful Spirit", 
+            "Sven", 
+            "Chaos Knight", 
+            "Lion"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/winter_wyvern_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Chen", 
+            "Lone Druid", 
+            "Arc Warden", 
+            "Earth Spirit", 
+            "Batrider", 
+            "Visage", 
+            "Brewmaster", 
+            "Broodmother", 
+            "Naga Siren", 
+            "Oracle"
+        ]
+    }, 
+    "Phoenix": {
+        "bestAgaint": [
+            "Winter Wyvern", 
+            "Chaos Knight", 
+            "Techies", 
+            "Tiny", 
+            "Tidehunter", 
+            "Spectre", 
+            "Treant Protector", 
+            "Axe", 
+            "Timbersaw", 
+            "Clockwerk"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/phoenix_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Anti-Mage", 
+            "Huskar", 
+            "Clinkz", 
+            "Juggernaut", 
+            "Bloodseeker", 
+            "Enchantress", 
+            "Morphling", 
+            "Lina", 
+            "Alchemist", 
+            "Puck"
+        ]
+    }, 
+    "Techies": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Riki", 
+            "Weaver", 
+            "Bloodseeker", 
+            "Morphling", 
+            "Shadow Fiend", 
+            "Bounty Hunter", 
+            "Slark", 
+            "Windranger", 
+            "Drow Ranger"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Chen", 
+            "Arc Warden", 
+            "Batrider", 
+            "Oracle", 
+            "Lone Druid", 
+            "Broodmother", 
+            "Templar Assassin", 
+            "Visage", 
+            "Naga Siren", 
+            "Keeper of the Light"
+        ]
+    }, 
+    "Centaur Warrunner": {
+        "bestAgaint": [
+            "Windranger", 
+            "Visage", 
+            "Techies", 
+            "Sniper", 
+            "Faceless Void", 
+            "Enchantress", 
+            "Spectre", 
+            "Lion", 
+            "Phantom Lancer", 
+            "Pugna"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/centaur_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Lifestealer", 
+            "Dazzle", 
+            "Death Prophet", 
+            "Templar Assassin", 
+            "Alchemist", 
+            "Wraith King", 
+            "Juggernaut", 
+            "Lycan", 
+            "Chen", 
+            "Undying"
+        ]
+    }, 
+    "Skywrath Mage": {
+        "bestAgaint": [
+            "Necrophos", 
+            "Morphling", 
+            "Timbersaw", 
+            "Faceless Void", 
+            "Elder Titan", 
+            "Underlord", 
+            "Storm Spirit", 
+            "Phoenix", 
+            "Lich", 
+            "Troll Warlord"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/skywrath_mage_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Pugna", 
+            "Chaos Knight", 
+            "Broodmother", 
+            "Huskar", 
+            "Phantom Lancer", 
+            "Lycan", 
+            "Arc Warden", 
+            "Tidehunter", 
+            "Nature's Prophet", 
+            "Oracle"
+        ]
+    }, 
+    "Earth Spirit": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Winter Wyvern", 
+            "Io", 
+            "Techies", 
+            "Timbersaw", 
+            "Visage", 
+            "Storm Spirit", 
+            "Beastmaster", 
+            "Nature's Prophet", 
+            "Riki"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/earth_spirit_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Broodmother", 
+            "Huskar", 
+            "Templar Assassin", 
+            "Bloodseeker", 
+            "Omniknight", 
+            "Ursa", 
+            "Alchemist", 
+            "Sniper", 
+            "Tiny", 
+            "Viper"
+        ]
+    }, 
+    "Terrorblade": {
+        "bestAgaint": [
+            "Anti-Mage", 
+            "Viper", 
+            "Vengeful Spirit", 
+            "Meepo", 
+            "Chen", 
+            "Ursa", 
+            "Slardar", 
+            "Templar Assassin", 
+            "Lifestealer", 
+            "Chaos Knight"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/terrorblade_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Zeus", 
+            "Tinker", 
+            "Slark", 
+            "Warlock", 
+            "Axe", 
+            "Timbersaw", 
+            "Sniper", 
+            "Gyrocopter", 
+            "Underlord", 
+            "Sand King"
+        ]
+    }, 
+    "Chaos Knight": {
+        "bestAgaint": [
+            "Huskar", 
+            "Viper", 
+            "Chen", 
+            "Skywrath Mage", 
+            "Bane", 
+            "Doom", 
+            "Pudge", 
+            "Ursa", 
+            "Visage", 
+            "Night Stalker"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/chaos_knight_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Medusa", 
+            "Sven", 
+            "Phantom Lancer", 
+            "Tidehunter", 
+            "Enigma", 
+            "Dark Seer", 
+            "Timbersaw", 
+            "Underlord", 
+            "Phoenix", 
+            "Terrorblade"
+        ]
+    }, 
+    "Brewmaster": {
+        "bestAgaint": [
+            "Winter Wyvern", 
+            "Techies", 
+            "Chen", 
+            "Visage", 
+            "Tidehunter", 
+            "Spectre", 
+            "Io", 
+            "Ancient Apparition", 
+            "Enchantress", 
+            "Warlock"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/brewmaster_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Undying", 
+            "Anti-Mage", 
+            "Weaver", 
+            "Storm Spirit", 
+            "Queen of Pain", 
+            "Death Prophet", 
+            "Clinkz", 
+            "Earthshaker", 
+            "Omniknight", 
+            "Mirana"
+        ]
+    }, 
+    "Abaddon": {
+        "bestAgaint": [
+            "Batrider", 
+            "Arc Warden", 
+            "Chaos Knight", 
+            "Storm Spirit", 
+            "Winter Wyvern", 
+            "Techies", 
+            "Vengeful Spirit", 
+            "Silencer", 
+            "Gyrocopter", 
+            "Axe"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/abaddon_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Anti-Mage", 
+            "Undying", 
+            "Slark", 
+            "Monkey King", 
+            "Outworld Devourer", 
+            "Alchemist", 
+            "Enchantress", 
+            "Keeper of the Light", 
+            "Lycan", 
+            "Faceless Void"
+        ]
+    }, 
+    "Slark": {
+        "bestAgaint": [
+            "Bristleback", 
+            "Spectre", 
+            "Dragon Knight", 
+            "Treant Protector", 
+            "Wraith King", 
+            "Drow Ranger", 
+            "Abaddon", 
+            "Undying", 
+            "Alchemist", 
+            "Batrider"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/slark_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Puck", 
+            "Faceless Void", 
+            "Tiny", 
+            "Lion", 
+            "Outworld Devourer", 
+            "Anti-Mage", 
+            "Storm Spirit", 
+            "Pangolier", 
+            "Leshrac", 
+            "Sand King"
+        ]
+    }, 
+    "Oracle": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Techies", 
+            "Io", 
+            "Winter Wyvern", 
+            "Timbersaw", 
+            "Warlock", 
+            "Legion Commander", 
+            "Naga Siren", 
+            "Dark Seer", 
+            "Storm Spirit"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/oracle_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Broodmother", 
+            "Lone Druid", 
+            "Razor", 
+            "Arc Warden", 
+            "Chen", 
+            "Phantom Lancer", 
+            "Drow Ranger", 
+            "Bristleback", 
+            "Chaos Knight", 
+            "Tiny"
+        ]
+    }, 
+    "Troll Warlord": {
+        "bestAgaint": [
+            "Anti-Mage", 
+            "Huskar", 
+            "Lycan", 
+            "Lifestealer", 
+            "Broodmother", 
+            "Undying", 
+            "Sven", 
+            "Bloodseeker", 
+            "Legion Commander", 
+            "Meepo"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/troll_warlord_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Windranger", 
+            "Winter Wyvern", 
+            "Tinker", 
+            "Gyrocopter", 
+            "Lich", 
+            "Crystal Maiden", 
+            "Sand King", 
+            "Slark", 
+            "Batrider", 
+            "Axe"
+        ]
+    }, 
+    "Bristleback": {
+        "bestAgaint": [
+            "Lycan", 
+            "Visage", 
+            "Spectre", 
+            "Luna", 
+            "Beastmaster", 
+            "Riki", 
+            "Chaos Knight", 
+            "Crystal Maiden", 
+            "Abaddon", 
+            "Warlock"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/bristleback_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Slark", 
+            "Viper", 
+            "Legion Commander", 
+            "Keeper of the Light", 
+            "Necrophos", 
+            "Silencer", 
+            "Timbersaw", 
+            "Ancient Apparition", 
+            "Pangolier", 
+            "Anti-Mage"
+        ]
+    }, 
+    "Treant Protector": {
+        "bestAgaint": [
+            "Spectre", 
+            "Techies", 
+            "Spirit Breaker", 
+            "Storm Spirit", 
+            "Tidehunter", 
+            "Centaur Warrunner", 
+            "Night Stalker", 
+            "Nature's Prophet", 
+            "Lifestealer", 
+            "Clockwerk"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/treant_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Meepo", 
+            "Chen", 
+            "Phantom Lancer", 
+            "Batrider", 
+            "Slark", 
+            "Death Prophet", 
+            "Alchemist", 
+            "Visage", 
+            "Dazzle", 
+            "Omniknight"
+        ]
+    }, 
+    "Elder Titan": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Winter Wyvern", 
+            "Meepo", 
+            "Io", 
+            "Timbersaw", 
+            "Techies", 
+            "Chaos Knight", 
+            "Abaddon", 
+            "Naga Siren", 
+            "Spectre"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/elder_titan_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Alchemist", 
+            "Lone Druid", 
+            "Lifestealer", 
+            "Clinkz", 
+            "Sniper", 
+            "Tiny", 
+            "Wraith King", 
+            "Doom", 
+            "Drow Ranger", 
+            "Dark Seer"
+        ]
+    }, 
+    "Visage": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Winter Wyvern", 
+            "Io", 
+            "Techies", 
+            "Timbersaw", 
+            "Zeus", 
+            "Nature's Prophet", 
+            "Shadow Shaman", 
+            "Treant Protector", 
+            "Tinker"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/visage_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Broodmother", 
+            "Beastmaster", 
+            "Chen", 
+            "Batrider", 
+            "Phantom Lancer", 
+            "Gyrocopter", 
+            "Medusa", 
+            "Bristleback", 
+            "Sniper", 
+            "Axe"
+        ]
+    }, 
+    "Ember Spirit": {
+        "bestAgaint": [
+            "Spectre", 
+            "Phantom Lancer", 
+            "Chen", 
+            "Beastmaster", 
+            "Clockwerk", 
+            "Spirit Breaker", 
+            "Templar Assassin", 
+            "Elder Titan", 
+            "Dark Seer", 
+            "Chaos Knight"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/ember_spirit_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Huskar", 
+            "Lifestealer", 
+            "Clinkz", 
+            "Drow Ranger", 
+            "Outworld Devourer", 
+            "Monkey King", 
+            "Legion Commander", 
+            "Broodmother", 
+            "Enchantress", 
+            "Razor"
+        ]
+    }, 
+    "Arc Warden": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Winter Wyvern", 
+            "Io", 
+            "Chen", 
+            "Techies", 
+            "Pugna", 
+            "Leshrac", 
+            "Timbersaw", 
+            "Oracle", 
+            "Visage"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Phantom Lancer", 
+            "Phantom Assassin", 
+            "Huskar", 
+            "Broodmother", 
+            "Slark", 
+            "Anti-Mage", 
+            "Naga Siren", 
+            "Legion Commander", 
+            "Meepo", 
+            "Chaos Knight"
+        ]
+    }, 
+    "Lone Druid": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Io", 
+            "Winter Wyvern", 
+            "Techies", 
+            "Dark Seer", 
+            "Oracle", 
+            "Timbersaw", 
+            "Chen", 
+            "Elder Titan", 
+            "Visage"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/lone_druid_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Batrider", 
+            "Razor", 
+            "Venomancer", 
+            "Jakiro", 
+            "Slark", 
+            "Phantom Lancer", 
+            "Lifestealer", 
+            "Phantom Assassin", 
+            "Drow Ranger", 
+            "Axe"
+        ]
+    }, 
+    "Nyx Assassin": {
+        "bestAgaint": [
+            "Medusa", 
+            "Tinker", 
+            "Luna", 
+            "Bristleback", 
+            "Phoenix", 
+            "Outworld Devourer", 
+            "Morphling", 
+            "Shadow Demon", 
+            "Weaver", 
+            "Abaddon"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/nyx_assassin_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Lifestealer", 
+            "Templar Assassin", 
+            "Juggernaut", 
+            "Lycan", 
+            "Broodmother", 
+            "Visage", 
+            "Clinkz", 
+            "Death Prophet", 
+            "Axe", 
+            "Lone Druid"
+        ]
+    }, 
+    "Shadow Demon": {
+        "bestAgaint": [
+            "Winter Wyvern", 
+            "Techies", 
+            "Tidehunter", 
+            "Luna", 
+            "Wraith King", 
+            "Warlock", 
+            "Io", 
+            "Terrorblade", 
+            "Necrophos", 
+            "Oracle"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/shadow_demon_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Phantom Lancer", 
+            "Queen of Pain", 
+            "Broodmother", 
+            "Lone Druid", 
+            "Weaver", 
+            "Storm Spirit", 
+            "Meepo", 
+            "Undying", 
+            "Underlord", 
+            "Medusa"
+        ]
+    }, 
+    "Keeper of the Light": {
+        "bestAgaint": [
+            "Techies", 
+            "Medusa", 
+            "Tidehunter", 
+            "Bristleback", 
+            "Winter Wyvern", 
+            "Wraith King", 
+            "Dark Seer", 
+            "Timbersaw", 
+            "Abaddon", 
+            "Lycan"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/keeper_of_the_light_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Huskar", 
+            "Night Stalker", 
+            "Storm Spirit", 
+            "Tusk", 
+            "Phantom Assassin", 
+            "Crystal Maiden", 
+            "Lone Druid", 
+            "Chen", 
+            "Puck", 
+            "Visage"
+        ]
+    }, 
+    "Io": {
+        "bestAgaint": [
+            "Tidehunter", 
+            "Zeus", 
+            "Spectre", 
+            "Riki", 
+            "Phantom Lancer", 
+            "Juggernaut", 
+            "Wraith King", 
+            "Lion", 
+            "Lich", 
+            "Axe"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/wisp_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Lone Druid", 
+            "Chen", 
+            "Broodmother", 
+            "Meepo", 
+            "Batrider", 
+            "Arc Warden", 
+            "Visage", 
+            "Oracle", 
+            "Lycan", 
+            "Earth Spirit"
+        ]
+    }, 
+    "Medusa": {
+        "bestAgaint": [
+            "Undying", 
+            "Chaos Knight", 
+            "Visage", 
+            "Lifestealer", 
+            "Death Prophet", 
+            "Queen of Pain", 
+            "Necrophos", 
+            "Enigma", 
+            "Storm Spirit", 
+            "Techies"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/medusa_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Sniper", 
+            "Keeper of the Light", 
+            "Anti-Mage", 
+            "Nyx Assassin", 
+            "Invoker", 
+            "Riki", 
+            "Alchemist", 
+            "Lich", 
+            "Slark", 
+            "Mirana"
+        ]
+    }, 
+    "Rubick": {
+        "bestAgaint": [
+            "Underlord", 
+            "Wraith King", 
+            "Jakiro", 
+            "Crystal Maiden", 
+            "Enigma", 
+            "Luna", 
+            "Zeus", 
+            "Abaddon", 
+            "Treant Protector", 
+            "Omniknight"
+        ], 
+        "image": "http://cdn.dota2.com/apps/dota2/images/heroes/rubick_full.png?v=4524806?v=4524806", 
+        "worstAgaint": [
+            "Templar Assassin", 
+            "Enchantress", 
+            "Lone Druid", 
+            "Broodmother", 
+            "Lycan", 
+            "Meepo", 
+            "Chen", 
+            "Huskar", 
+            "Nature's Prophet", 
+            "Terrorblade"
+        ]
+    }
+}
