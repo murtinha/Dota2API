@@ -14,6 +14,14 @@ const dataSchema = new Schema({
 			type: Array,
 			required: true,
 		},
+    image: {
+      type: String,
+      required: true,  
+    },
+    avatar: {
+      type: String,
+      required: true,  
+    },
 });
 
 export default dataSchema;

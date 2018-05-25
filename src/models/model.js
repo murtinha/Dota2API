@@ -12,6 +12,8 @@ const createDb = () => {
 			name: hero,
 			bestAgaints: heroes[hero].bestAgaint,
 			worstAgaints: heroes[hero].worstAgaint,
+      image: heroes[hero].image,
+      avatar: heroes[hero].avatar,
 		};
 		let	saveHero = new Model(obj[hero]);
 		saveHero.save().then(result => {

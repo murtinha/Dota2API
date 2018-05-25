@@ -7,6 +7,8 @@ const heroType = new GraphQLObjectType({
 		name: { type: GraphQLString },
 		worstAgaints: { type: GraphQLList(GraphQLString) },
 		bestAgaints: { type: GraphQLList(GraphQLString) },
+    image: { type: GraphQLString },
+    avatar: { type: GraphQLString },
 	}
 });
 
