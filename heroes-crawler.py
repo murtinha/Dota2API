@@ -48,6 +48,6 @@ for i in range(len(dota2heroes)):
     print bestAgaintHeroes
     print worstAgaintHeroes
     allHeroes[dotabuffheroes[i].strip()] = {'bestAgaint': bestAgaintHeroes, 'worstAgaint': worstAgaintHeroes, 'image': img['src'] }
-    with open('data2.json', 'w') as f:
+    with open('data.json', 'w') as f:
         json.dump(allHeroes, f, indent=4)
 
