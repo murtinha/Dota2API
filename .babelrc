@@ -1,8 +1,4 @@
 {
-	"presets": [
-		"es2015"
-	],
-	"plugins": [
-		["babel-plugin-root-import"]
-	]
+	"presets": ["env", "stage-2"],
+	"plugins": ["babel-plugin-root-import"]
 }
